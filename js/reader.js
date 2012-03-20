@@ -88,31 +88,6 @@ function update(file)
     }
   }
 
-  /* swiping event listeners */
-  document.addEventListener('mousedown',
-      function(evt) {mover = new moving(evt);},
-      false);
-
-  document.addEventListener('mousemove',
-      function(evt) {mover.mouseMove(evt);},
-      false);
-
-  document.addEventListener('mouseup',
-      function(evt) {mover.mouseEnd(evt);},
-      false);
-
-  /* menu event listeners */
-  var back = document.getElementById('back');
-  var toggle = document.getElementById('toggle');
- 
-  back.addEventListener('click',
-      function() {resetBook();},
-      false);
-
-  toggle.addEventListener('click',
-      function() {toggleStyle();},
-      false);
-
 }
 
 var book;
@@ -302,7 +277,7 @@ window.onload = function()
       false);
     var previewer = document.getElementById('preview');
     previewer.addEventListener('click', preview, false);
-
+    previewer.addEventListener('touchstart', preview, false);
   var pageStyle = document.createElement('style');
   pageStyle.id = 'pageStyle';
   document.body.appendChild(pageStyle);
