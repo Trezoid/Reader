@@ -25,7 +25,9 @@ function preview()
     }
   }
 
-
+  /*
+   * Mouse events
+   */
   document.addEventListener('mousedown',
       function(evt) {mover = new moving(evt);},
       false);
@@ -35,6 +37,22 @@ function preview()
       false);
 
   document.addEventListener('mouseup',
+      function(evt) {mover.mouseEnd(evt);},
+      false);
+
+  /*
+   * Touch events
+   */
+
+  document.addEventListener('touchstart',
+      function(evt) {mover = new moving(evt);},
+      false);
+
+  document.addEventListener('touchmove',
+      function(evt) {mover.mouseMove(evt);},
+      false);
+
+  document.addEventListener('touchend',
       function(evt) {mover.mouseEnd(evt);},
       false);
 
