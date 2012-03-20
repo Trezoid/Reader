@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>Reader</title>
+    <link rel="stylesheet" href="style/reader.css" type="text/css" />
+    <script type="text/javascript" src="js/js-epub/js-unzip.min.js"></script>
+    <script type="text/javascript" src="js/js-epub/js-inflate.min.js"></script>
+    <script type="text/javascript" src="js/js-epub/js-epub.min.js"></script>
+    <script type="text/javascript" src="js/reader.js"></script>
+  </head>
+
+  <body>
+     <!-- File loading. -->
+     
+    <div id="fileHolder">
+    <h2> Tap below to select a book </h2>
+    <input type="file" id="files" name="files[]" />
+    <output id="list"></output>
+    <a id="preview" href="#">(Or see a preview by clicking here)</a>
+    </div>
+   
+    <!-- Menus -->
+    
+    <div id="menu" style='display:none'>
+      <div id="back"></div>
+      <div id="toggle"></div>
+    </div>
+
+    <div id="book">
+      <div id="pages">
+      </div>
+    </div> 
+    <link rel="stylesheet" href="style/light.css" type="text/css" id="style"/>
+  </body>
+</html>
+

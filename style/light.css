@@ -1,0 +1,9 @@
+p, h1, h2, h3, h4, h5, h6 {
+  color:#6a8188!important;
+}
+
+h1, h2, h3, h4, strong {color: #004654;}
+body {
+  background: url('images/noise.png') repeat #fef7e8;
+}
+

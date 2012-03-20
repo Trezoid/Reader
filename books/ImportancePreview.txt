@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <head>
+      <title>FIRST ACT - SCENE | The Importance of Being Earnest</title>
+      <link rel="stylesheet" href="css/book.css" type="text/css"/>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+      <meta name="EPB-UUID" content="38F60DBD-6C07-1014-AB8C-CCF8A6C08ECA"/>
+   </head>
+   <body>
+      <div class="body">
+         <div class="chapter">
+            <h3 class="chapter-title">FIRST ACT</h3>
+            <h4 class="chapter-subtitle">SCENE</h4>
+            <p>Morning&#8211;room in Algernon&#8217;s flat in Half&#8211;Moon Street. The room is luxuriously and artistically furnished. The sound of a piano is heard in the adjoining room.</p>
+            <p>[Lane is arranging afternoon tea on the table, and after the music has ceased, Algernon enters.]</p>
+            <p>Algernon. Did you hear what I was playing, Lane?</p>
+            <p>Lane. I didn&#8217;t think it polite to listen, sir.</p>
+            <p>Algernon. I&#8217;m sorry for that, for your sake. I don&#8217;t play accurately&#8212;any one can play accurately&#8212;but I play with wonderful expression. As far as the piano is concerned, sentiment is my forte. I keep science for Life.</p>
+            <p>Lane. Yes, sir.</p>
+            <p>Algernon. And, speaking of the science of Life, have you got the cucumber sandwiches cut for Lady Bracknell?</p>
+            <p>Lane. Yes, sir. [Hands them on a salver.]</p>
+            <p>Algernon. [Inspects them, takes two, and sits down on the sofa.] Oh! . . . by the way, Lane, I see from your book that on Thursday night, when Lord Shoreman and Mr.&nbsp;Worthing were dining with me, eight bottles of champagne are entered as having been consumed.</p>
+            <p>Lane. Yes, sir; eight bottles and a pint.</p>
+            <p>Algernon. Why is it that at a bachelor&#8217;s establishment the servants invariably drink the champagne? I ask merely for information.</p>
+            <p>Lane. I attribute it to the superior quality of the wine, sir. I have often observed that in married households the champagne is rarely of a first&#8211;rate brand.</p>
+            <p>Algernon. Good heavens! Is marriage so demoralising as that?</p>
+            <p>Lane. I believe it <em>is</em> a very pleasant state, sir. I have had very little experience of it myself up to the present. I have only been married once. That was in consequence of a misunderstanding between myself and a young person.</p>
+            <p>Algernon. [Languidly<em>.</em>] I don&#8217;t know that I am much interested in your family life, Lane.</p>
+            <p>Lane. No, sir; it is not a very interesting subject. I never think of it myself.</p>
+            <p>Algernon. Very natural, I am sure. That will do, Lane, thank you.</p>
+            <p>Lane. Thank you, sir. [Lane goes out.]</p>
+            <p>Algernon. Lane&#8217;s views on marriage seem somewhat lax. Really, if the lower orders don&#8217;t set us a good example, what on earth is the use of them? They seem, as a class, to have absolutely no sense of moral responsibility.</p>
+            <p>[Enter Lane.]</p>
+            <p>Lane. Mr.&nbsp;Ernest Worthing.</p>
+            <p>[Enter Jack.]</p>
+            <p>[Lane goes out<em>.</em>]</p>
+            <p>Algernon. How are you, my dear Ernest? What brings you up to town?</p>
+            <p>Jack. Oh, pleasure, pleasure! What else should bring one anywhere? Eating as usual, I see, Algy!</p>
+            <p>Algernon. [Stiffly<em>.</em>] I believe it is customary in good society to take some slight refreshment at five o&#8217;clock. Where have you been since last Thursday?</p>
+            <p>Jack. [Sitting down on the sofa.] In the country.</p>
+            <p>Algernon. What on earth do you do there?</p>
+            <p>Jack. [Pulling off his gloves<em>.</em>] When one is in town one amuses oneself. When one is in the country one amuses other people. It is excessively boring.</p>
+            <p>Algernon. And who are the people you amuse?</p>
+            <p>Jack. [Airily<em>.</em>] Oh, neighbours, neighbours.</p>
+            <p>Algernon. Got nice neighbours in your part of Shropshire?</p>
+            <p>Jack. Perfectly horrid! Never speak to one of them.</p>
+            <p>Algernon. How immensely you must amuse them! [Goes over and takes sandwich.] By the way, Shropshire is your county, is it not?</p>
+            <p>Jack. Eh? Shropshire? Yes, of course. Hallo! Why all these cups? Why cucumber sandwiches? Why such reckless extravagance in one so young? Who is coming to tea?</p>
+            <p>Algernon. Oh! merely Aunt Augusta and Gwendolen.</p>
+            <p>Jack. How perfectly delightful!</p>
+            <p>Algernon. Yes, that is all very well; but I am afraid Aunt Augusta won&#8217;t quite approve of your being here.</p>
+            <p>Jack. May I ask why?</p>
+            <p>Algernon. My dear fellow, the way you flirt with Gwendolen is perfectly disgraceful. It is almost as bad as the way Gwendolen flirts with you.</p>
+            <p>Jack. I am in love with Gwendolen. I have come up to town expressly to propose to her.</p>
+            <p>Algernon. I thought you had come up for pleasure?&#8230;I call that business.</p>
+            <p>Jack. How utterly unromantic you are!</p>
+            <p>Algernon. I really don&#8217;t see anything romantic in proposing. It is very romantic to be in love. But there is nothing romantic about a definite proposal. Why, one may be accepted. One usually is, I believe. Then the excitement is all over. The very essence of romance is uncertainty. If ever I get married, I&#8217;ll certainly try to forget the fact.</p>
+            <p>Jack. I have no doubt about that, dear Algy. The Divorce Court was specially invented for people whose memories are so curiously constituted.</p>
+            <p>Algernon. Oh! there is no use speculating on that subject. Divorces are made in Heaven&#8212;[Jack puts out his hand to take a sandwich. Algernon at once interferes.] Please don&#8217;t touch the cucumber sandwiches. They are ordered specially for Aunt Augusta. [Takes one and eats it.]</p>
+            <p>Jack. Well, you have been eating them all the time.</p>
+            <p>Algernon. That is quite a different matter. She is my aunt. [Takes plate from below.] Have some bread and butter. The bread and butter is for Gwendolen. Gwendolen is devoted to bread and butter.</p>
+            <p>Jack. [Advancing to table and helping himself.] And very good bread and butter it is too.</p>
+            <p>Algernon. Well, my dear fellow, you need not eat as if you were going to eat it all. You behave as if you were married to her already. You are not married to her already, and I don&#8217;t think you ever will be.</p>
+            <p>Jack. Why on earth do you say that?</p>
+            <p>Algernon. Well, in the first place girls never marry the men they flirt with. Girls don&#8217;t think it right.</p>
+            <p>Jack. Oh, that is nonsense!</p>
+            <p>Algernon. It isn&#8217;t. It is a great truth. It accounts for the extraordinary number of bachelors that one sees all over the place. In the second place, I don&#8217;t give my consent.</p>
+            <p>Jack. Your consent!</p>
+            <p>Algernon. My dear fellow, Gwendolen is my first cousin. And before I allow you to marry her, you will have to clear up the whole question of Cecily. [Rings bell.]</p>
+            <p>Jack. Cecily! What on earth do you mean? What do you mean, Algy, by Cecily! I don&#8217;t know any one of the name of Cecily.</p>
+            <p>[Enter Lane.]</p>
+            <p>Algernon. Bring me that cigarette case Mr.&nbsp;Worthing left in the smoking&#8211;room the last time he dined here.</p>
+            <p>Lane. Yes, sir. [Lane goes out.]</p>
+            <p>Jack. Do you mean to say you have had my cigarette case all this time? I wish to goodness you had let me know. I have been writing frantic letters to Scotland Yard about it. I was very nearly offering a large reward.</p>
+            <p>Algernon. Well, I wish you would offer one. I happen to be more than usually hard up.</p>
+            <p>Jack. There is no good offering a large reward now that the thing is found.</p>
+            <p>[Enter Lane with the cigarette case on a salver. Algernon takes it at once. Lane goes out.]</p>
+            <p>Algernon. I think that is rather mean of you, Ernest, I must say. [Opens case and examines it.] However, it makes no matter, for, now that I look at the inscription inside, I find that the thing isn&#8217;t yours after all.</p>
+            <p>Jack. Of course it&#8217;s mine. [Moving to him.] You have seen me with it a hundred times, and you have no right whatsoever to read what is written inside. It is a very ungentlemanly thing to read a private cigarette case.</p>
+            <p>Algernon. Oh! it is absurd to have a hard and fast rule about what one should read and what one shouldn&#8217;t. More than half of modern culture depends on what one shouldn&#8217;t read.</p>
+            <p>Jack. I am quite aware of the fact, and I don&#8217;t propose to discuss modern culture. It isn&#8217;t the sort of thing one should talk of in private. I simply want my cigarette case back.</p>
+            <p>Algernon. Yes; but this isn&#8217;t your cigarette case. This cigarette case is a present from some one of the name of Cecily, and you said you didn&#8217;t know any one of that name.</p>
+            <p>Jack. Well, if you want to know, Cecily happens to be my aunt.</p>
+            <p>Algernon. Your aunt!</p>
+            <p>Jack. Yes. Charming old lady she is, too. Lives at Tunbridge Wells. Just give it back to me, Algy.</p>
+            <p>Algernon. [Retreating to back of sofa.] But why does she call herself little Cecily if she is your aunt and lives at Tunbridge Wells? [Reading.] 'From little Cecily with her fondest love.'</p>
+            <p>Jack. [Moving to sofa and kneeling upon it.] My dear fellow, what on earth is there in that? Some aunts are tall, some aunts are not tall. That is a matter that surely an aunt may be allowed to decide for herself. You seem to think that every aunt should be exactly like your aunt! That is absurd! For Heaven&#8217;s sake give me back my cigarette case. [Follows Algernon round the room.]</p>
+            <p>Algernon. Yes. But why does your aunt call you her uncle? 'From little Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can&#8217;t quite make out. Besides, your name isn&#8217;t Jack at all; it is Ernest.</p>
+            <p>Jack. It isn&#8217;t Ernest; it&#8217;s Jack.</p>
+            <p>Algernon. You have always told me it was Ernest. I have introduced you to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest&#8211;looking person I ever saw in my life. It is perfectly absurd your saying that your name isn&#8217;t Ernest. It&#8217;s on your cards. Here is one of them. [Taking it from case.] 'Mr. Ernest Worthing, B. 4, The Albany.' I&#8217;ll keep this as a proof that your name is Ernest if ever you attempt to deny it to me, or to Gwendolen, or to any one else. [Puts the card in his pocket.]</p>
+            <p>Jack. Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.</p>
+            <p>Algernon. Yes, but that does not account for the fact that your small Aunt Cecily, who lives at Tunbridge Wells, calls you her dear uncle. Come, old boy, you had much better have the thing out at once.</p>
+            <p>Jack. My dear Algy, you talk exactly as if you were a dentist. It is very vulgar to talk like a dentist when one isn&#8217;t a dentist. It produces a false impression.</p>
+            <p>Algernon. Well, that is exactly what dentists always do. Now, go on! Tell me the whole thing. I may mention that I have always suspected you of being a confirmed and secret Bunburyist; and I am quite sure of it now.</p>
+            <p>Jack. Bunburyist? What on earth do you mean by a Bunburyist?</p>
+            <p>Algernon. I&#8217;ll reveal to you the meaning of that incomparable expression as soon as you are kind enough to inform me why you are Ernest in town and Jack in the country.</p>
+            <p>Jack. Well, produce my cigarette case first.</p>
+            <p>Algernon. Here it is. [Hands cigarette case.] Now produce your explanation, and pray make it improbable. [Sits on sofa.]</p>
+            <p>Jack. My dear fellow, there is nothing improbable about my explanation at all. In fact it&#8217;s perfectly ordinary. Old Mr.&nbsp;Thomas Cardew, who adopted me when I was a little boy, made me in his will guardian to his grand&#8211;daughter, Miss Cecily Cardew. Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, lives at my place in the country under the charge of her admirable governess, Miss Prism.</p>
+            <p>Algernon. Where is that place in the country, by the way?</p>
+            <p>Jack. That is nothing to you, dear boy. You are not going to be invited &#8230;I may tell you candidly that the place is not in Shropshire.</p>
+            <p>Algernon. I suspected that, my dear fellow! I have Bunburyed all over Shropshire on two separate occasions. Now, go on. Why are you Ernest in town and Jack in the country?</p>
+            <p>Jack. My dear Algy, I don&#8217;t know whether you will be able to understand my real motives. You are hardly serious enough. When one is placed in the position of guardian, one has to adopt a very high moral tone on all subjects. It&#8217;s one&#8217;s duty to do so. And as a high moral tone can hardly be said to conduce very much to either one&#8217;s health or one&#8217;s happiness, in order to get up to town I have always pretended to have a younger brother of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. That, my dear Algy, is the whole truth pure and simple.</p>
+            <p>Algernon. The truth is rarely pure and never simple. Modern life would be very tedious if it were either, and modern literature a complete impossibility!</p>
+            <p>Jack. That wouldn&#8217;t be at all a bad thing.</p>
+            <p>Algernon. Literary criticism is not your forte, my dear fellow. Don&#8217;t try it. You should leave that to people who haven&#8217;t been at a University. They do it so well in the daily papers. What you really are is a Bunburyist. I was quite right in saying you were a Bunburyist. You are one of the most advanced Bunburyists I know.</p>
+            <p>Jack. What on earth do you mean?</p>
+            <p>Algernon. You have invented a very useful younger brother called Ernest, in order that you may be able to come up to town as often as you like. I have invented an invaluable permanent invalid called Bunbury, in order that I may be able to go down into the country whenever I choose. Bunbury is perfectly invaluable. If it wasn&#8217;t for Bunbury&#8217;s extraordinary bad health, for instance, I wouldn&#8217;t be able to dine with you at Willis&#8217;s to&#8211;night, for I have been really engaged to Aunt Augusta for more than a week.</p>
+            <p>Jack. I haven&#8217;t asked you to dine with me anywhere to&#8211;night.</p>
+            <p>Algernon. I know. You are absurdly careless about sending out invitations. It is very foolish of you. Nothing annoys people so much as not receiving invitations.</p>
+            <p>Jack. You had much better dine with your Aunt Augusta.</p>
+            <p>Algernon. I haven&#8217;t the smallest intention of doing anything of the kind. To begin with, I dined there on Monday, and once a week is quite enough to dine with one&#8217;s own relations. In the second place, whenever I do dine there I am always treated as a member of the family, and sent down with either no woman at all, or two. In the third place, I know perfectly well whom she will place me next to, to&#8211;night. She will place me next Mary Farquhar, who always flirts with her own husband across the dinner&#8211;table. That is not very pleasant. Indeed, it is not even decent &#8230;and that sort of thing is enormously on the increase. The amount of women in London who flirt with their own husbands is perfectly scandalous. It looks so bad. It is simply washing one&#8217;s clean linen in public. Besides, now that I know you to be a confirmed Bunburyist I naturally want to talk to you about Bunburying. I want to tell you the rules.</p>
+            <p>Jack. I&#8217;m not a Bunburyist at all. If Gwendolen accepts me, I am going to kill my brother, indeed I think I&#8217;ll kill him in any case. Cecily is a little too much interested in him. It is rather a bore. So I am going to get rid of Ernest. And I strongly advise you to do the same with Mr. &#8230;with your invalid friend who has the absurd name.</p>
+            <p>Algernon. Nothing will induce me to part with Bunbury, and if you ever get married, which seems to me extremely problematic, you will be very glad to know Bunbury. A man who marries without knowing Bunbury has a very tedious time of it.</p>
+            <p>Jack. That is nonsense. If I marry a charming girl like Gwendolen, and she is the only girl I ever saw in my life that I would marry, I certainly won&#8217;t want to know Bunbury.</p>
+            <p>Algernon. Then your wife will. You don&#8217;t seem to realise, that in married life three is company and two is none.</p>
+            <p>Jack. [Sententiously.] That, my dear young friend, is the theory that the corrupt French Drama has been propounding for the last fifty years.</p>
+            <p>Algernon. Yes; and that the happy English home has proved in half the time.</p>
+            <p>Jack. For heaven&#8217;s sake, don&#8217;t try to be cynical. It&#8217;s perfectly easy to be cynical.</p>
+            <p>Algernon. My dear fellow, it isn&#8217;t easy to be anything nowadays. There&#8217;s such a lot of beastly competition about. [The sound of an electric bell is heard.] Ah! that must be Aunt Augusta. Only relatives, or creditors, ever ring in that Wagnerian manner. Now, if I get her out of the way for ten minutes, so that you can have an opportunity for proposing to Gwendolen, may I dine with you to&#8211;night at Willis&#8217;s?</p>
+            <p>Jack. I suppose so, if you want to.</p>
+            <p>Algernon. Yes, but you must be serious about it. I hate people who are not serious about meals. It is so shallow of them.</p>
+            <p>[Enter Lane.]</p>
+            <p>Lane. Lady Bracknell and Miss Fairfax.</p>
+            <p>[Algernon goes forward to meet them. Enter Lady Bracknell and Gwendolen.]</p>
+            <p>Lady Bracknell. Good afternoon, dear Algernon, I hope you are behaving very well.</p>
+            <p>Algernon. I&#8217;m feeling very well, Aunt Augusta.</p>
+            <p>Lady Bracknell. That&#8217;s not quite the same thing. In fact the two things rarely go together. [Sees Jack and bows to him with icy coldness.]</p>
+            <p>Algernon. [To Gwendolen.] Dear me, you are smart!</p>
+            <p>Gwendolen. I am always smart! Am I not, Mr.&nbsp;Worthing?</p>
+            <p>Jack. You&#8217;re quite perfect, Miss Fairfax.</p>
+            <p>Gwendolen. Oh! I hope I am not that. It would leave no room for developments, and I intend to develop in many directions. [Gwendolen and Jack sit down together in the corner.]</p>
+            <p>Lady Bracknell. I&#8217;m sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury. I hadn&#8217;t been there since her poor husband&#8217;s death. I never saw a woman so altered; she looks quite twenty years younger. And now I&#8217;ll have a cup of tea, and one of those nice cucumber sandwiches you promised me.</p>
+            <p>Algernon. Certainly, Aunt Augusta. [Goes over to tea&#8211;table.]</p>
+            <p>Lady Bracknell. Won&#8217;t you come and sit here, Gwendolen?</p>
+            <p>Gwendolen. Thanks, mamma, I&#8217;m quite comfortable where I am.</p>
+            <p>Algernon. [Picking up empty plate in horror.] Good heavens! Lane! Why are there no cucumber sandwiches? I ordered them specially.</p>
+            <p>Lane. [Gravely.] There were no cucumbers in the market this morning, sir. I went down twice.</p>
+            <p>Algernon. No cucumbers!</p>
+            <p>Lane. No, sir. Not even for ready money.</p>
+            <p>Algernon. That will do, Lane, thank you.</p>
+            <p>Lane. Thank you, sir. [Goes out.]</p>
+            <p>Algernon. I am greatly distressed, Aunt Augusta, about there being no cucumbers, not even for ready money.</p>
+            <p>Lady Bracknell. It really makes no matter, Algernon. I had some crumpets with Lady Harbury, who seems to me to be living entirely for pleasure now.</p>
+            <p>Algernon. I hear her hair has turned quite gold from grief.</p>
+            <p>Lady Bracknell. It certainly has changed its colour. From what cause I, of course, cannot say. [Algernon crosses and hands tea.] Thank you. I&#8217;ve quite a treat for you to&#8211;night, Algernon. I am going to send you down with Mary Farquhar. She is such a nice woman, and so attentive to her husband. It&#8217;s delightful to watch them.</p>
+            <p>Algernon. I am afraid, Aunt Augusta, I shall have to give up the pleasure of dining with you to&#8211;night after all.</p>
+            <p>Lady Bracknell. [Frowning.] I hope not, Algernon. It would put my table completely out. Your uncle would have to dine upstairs. Fortunately he is accustomed to that.</p>
+            <p>Algernon. It is a great bore, and, I need hardly say, a terrible disappointment to me, but the fact is I have just had a telegram to say that my poor friend Bunbury is very ill again. [Exchanges glances with Jack.] They seem to think I should be with him.</p>
+            <p>Lady Bracknell. It is very strange. This Mr.&nbsp;Bunbury seems to suffer from curiously bad health.</p>
+            <p>Algernon. Yes; poor Bunbury is a dreadful invalid.</p>
+            <p>Lady Bracknell. Well, I must say, Algernon, that I think it is high time that Mr.&nbsp;Bunbury made up his mind whether he was going to live or to die. This shilly&#8211;shallying with the question is absurd. Nor do I in any way approve of the modern sympathy with invalids. I consider it morbid. Illness of any kind is hardly a thing to be encouraged in others. Health is the primary duty of life. I am always telling that to your poor uncle, but he never seems to take much notice&#8230;as far as any improvement in his ailment goes. I should be much obliged if you would ask Mr.&nbsp;Bunbury, from me, to be kind enough not to have a relapse on Saturday, for I rely on you to arrange my music for me. It is my last reception, and one wants something that will encourage conversation, particularly at the end of the season when every one has practically said whatever they had to say, which, in most cases, was probably not much.</p>
+            <p>Algernon. I&#8217;ll speak to Bunbury, Aunt Augusta, if he is still conscious, and I think I can promise you he&#8217;ll be all right by Saturday. Of course the music is a great difficulty. You see, if one plays good music, people don&#8217;t listen, and if one plays bad music people don&#8217;t talk. But I&#8217;ll run over the programme I&#8217;ve drawn out, if you will kindly come into the next room for a moment.</p>
+            <p>Lady Bracknell. Thank you, Algernon. It is very thoughtful of you. [Rising, and following Algernon.] I&#8217;m sure the programme will be delightful, after a few expurgations. French songs I cannot possibly allow. People always seem to think that they are improper, and either look shocked, which is vulgar, or laugh, which is worse. But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me.</p>
+            <p>Gwendolen. Certainly, mamma.</p>
+            <p>[Lady Bracknell and Algernon go into the music&#8211;room, Gwendolen remains behind.]</p>
+            <p>Jack. Charming day it has been, Miss Fairfax.</p>
+            <p>Gwendolen. Pray don&#8217;t talk to me about the weather, Mr.&nbsp;Worthing. Whenever people talk to me about the weather, I always feel quite certain that they mean something else. And that makes me so nervous.</p>
+            <p>Jack. I do mean something else.</p>
+            <p>Gwendolen. I thought so. In fact, I am never wrong.</p>
+            <p>Jack. And I would like to be allowed to take advantage of Lady Bracknell&#8217;s temporary absence . . .</p>
+            <p>Gwendolen. I would certainly advise you to do so. Mamma has a way of coming back suddenly into a room that I have often had to speak to her about.</p>
+            <p>Jack. [Nervously.] Miss Fairfax, ever since I met you I have admired you more than any girl&#8230;I have ever met since&#8230;I met you.</p>
+            <p>Gwendolen. Yes, I am quite well aware of the fact. And I often wish that in public, at any rate, you had been more demonstrative. For me you have always had an irresistible fascination. Even before I met you I was far from indifferent to you. [Jack looks at her in amazement.] We live, as I hope you know, Mr.&nbsp;Worthing, in an age of ideals. The fact is constantly mentioned in the more expensive monthly magazines, and has reached the provincial pulpits, I am told; and my ideal has always been to love some one of the name of Ernest. There is something in that name that inspires absolute confidence. The moment Algernon first mentioned to me that he had a friend called Ernest, I knew I was destined to love you.</p>
+            <p>Jack. You really love me, Gwendolen?</p>
+            <p>Gwendolen. Passionately!</p>
+            <p>Jack. Darling! You don&#8217;t know how happy you&#8217;ve made me.</p>
+            <p>Gwendolen. My own Ernest!</p>
+            <p>Jack. But you don&#8217;t really mean to say that you couldn&#8217;t love me if my name wasn&#8217;t Ernest?</p>
+            <p>Gwendolen. But your name is Ernest.</p>
+            <p>Jack. Yes, I know it is. But supposing it was something else? Do you mean to say you couldn&#8217;t love me then?</p>
+            <p>Gwendolen. [Glibly.] Ah! that is clearly a metaphysical speculation, and like most metaphysical speculations has very little reference at all to the actual facts of real life, as we know them.</p>
+            <p>Jack. Personally, darling, to speak quite candidly, I don&#8217;t much care about the name of Ernest&#8230;I don&#8217;t think the name suits me at all.</p>
+            <p>Gwendolen. It suits you perfectly. It is a divine name. It has a music of its own. It produces vibrations.</p>
+            <p>Jack. Well, really, Gwendolen, I must say that I think there are lots of other much nicer names. I think Jack, for instance, a charming name.</p>
+            <p>Gwendolen. Jack?&#8230;No, there is very little music in the name Jack, if any at all, indeed. It does not thrill. It produces absolutely no vibrations&#8230;I have known several Jacks, and they all, without exception, were more than usually plain. Besides, Jack is a notorious domesticity for John! And I pity any woman who is married to a man called John. She would probably never be allowed to know the entrancing pleasure of a single moment&#8217;s solitude. The only really safe name is Ernest</p>
+            <p>Jack. Gwendolen, I must get christened at once&#8212;I mean we must get married at once. There is no time to be lost.</p>
+            <p>Gwendolen. Married, Mr.&nbsp;Worthing?</p>
+            <p>Jack. [Astounded.] Well&#8230;surely. You know that I love you, and you led me to believe, Miss Fairfax, that you were not absolutely indifferent to me.</p>
+            <p>Gwendolen. I adore you. But you haven&#8217;t proposed to me yet. Nothing has been said at all about marriage. The subject has not even been touched on.</p>
+            <p>Jack. Well&#8230;may I propose to you now?</p>
+            <p>Gwendolen. I think it would be an admirable opportunity. And to spare you any possible disappointment, Mr.&nbsp;Worthing, I think it only fair to tell you quite frankly before&#8211;hand that I am fully determined to accept you.</p>
+            <p>Jack. Gwendolen!</p>
+            <p>Gwendolen. Yes, Mr.&nbsp;Worthing, what have you got to say to me?</p>
+            <p>Jack. You know what I have got to say to you.</p>
+            <p>Gwendolen. Yes, but you don&#8217;t say it.</p>
+            <p>Jack. Gwendolen, will you marry me? [Goes on his knees.]</p>
+            <p>Gwendolen. Of course I will, darling. How long you have been about it! I am afraid you have had very little experience in how to propose.</p>
+            <p>Jack. My own one, I have never loved any one in the world but you.</p>
+            <p>Gwendolen. Yes, but men often propose for practice. I know my brother Gerald does. All my girl&#8211;friends tell me so. What wonderfully blue eyes you have, Ernest! They are quite, quite, blue. I hope you will always look at me just like that, especially when there are other people present. [Enter Lady Bracknell.]</p>
+            <p>Lady Bracknell. Mr.&nbsp;Worthing! Rise, sir, from this semi&#8211;recumbent posture. It is most indecorous.</p>
+            <p>Gwendolen. Mamma! [He tries to rise; she restrains him.] I must beg you to retire. This is no place for you. Besides, Mr.&nbsp;Worthing has not quite finished yet.</p>
+            <p>Lady Bracknell. Finished what, may I ask?</p>
+            <p>Gwendolen. I am engaged to Mr.&nbsp;Worthing, mamma. [They rise together.]</p>
+            <p>Lady Bracknell. Pardon me, you are not engaged to any one. When you do become engaged to some one, I, or your father, should his health permit him, will inform you of the fact. An engagement should come on a young girl as a surprise, pleasant or unpleasant, as the case may be. It is hardly a matter that she could be allowed to arrange for herself . . . And now I have a few questions to put to you, Mr.&nbsp;Worthing. While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage.</p>
+            <p>Gwendolen. [Reproachfully.] Mamma!</p>
+            <p>Lady Bracknell. In the carriage, Gwendolen! [Gwendolen goes to the door. She and Jack blow kisses to each other behind Lady Bracknell&#8217;s back. Lady Bracknell looks vaguely about as if she could not understand what the noise was. Finally turns round.] Gwendolen, the carriage!</p>
+            <p>Gwendolen. Yes, mamma. [Goes out, looking back at Jack.]</p>
+            <p>Lady Bracknell. [Sitting down.] You can take a seat, Mr.&nbsp;Worthing.</p>
+            <p>[Looks in her pocket for note&#8211;book and pencil.]</p>
+            <p>Jack. Thank you, Lady Bracknell, I prefer standing.</p>
+            <p>Lady Bracknell. [Pencil and note&#8211;book in hand.] I feel bound to tell you that you are not down on my list of eligible young men, although I have the same list as the dear Duchess of Bolton has. We work together, in fact. However, I am quite ready to enter your name, should your answers be what a really affectionate mother requires. Do you smoke?</p>
+            <p>Jack. Well, yes, I must admit I smoke.</p>
+            <p>Lady Bracknell. I am glad to hear it. A man should always have an occupation of some kind. There are far too many idle men in London as it is. How old are you?</p>
+            <p>Jack. Twenty&#8211;nine.</p>
+            <p>Lady Bracknell. A very good age to be married at. I have always been of opinion that a man who desires to get married should know either everything or nothing. Which do you know?</p>
+            <p>Jack. [After some hesitation.] I know nothing, Lady Bracknell.</p>
+            <p>Lady Bracknell. I am pleased to hear it. I do not approve of anything that tampers with natural ignorance. Ignorance is like a delicate exotic fruit; touch it and the bloom is gone. The whole theory of modern education is radically unsound. Fortunately in England, at any rate, education produces no effect whatsoever. If it did, it would prove a serious danger to the upper classes, and probably lead to acts of violence in Grosvenor Square. What is your income?</p>
+            <p>Jack. Between seven and eight thousand a year.</p>
+            <p>Lady Bracknell. [Makes a note in her book.] In land, or in investments?</p>
+            <p>Jack. In investments, chiefly.</p>
+            <p>Lady Bracknell. That is satisfactory. What between the duties expected of one during one&#8217;s lifetime, and the duties exacted from one after one&#8217;s death, land has ceased to be either a profit or a pleasure. It gives one position, and prevents one from keeping it up. That&#8217;s all that can be said about land.</p>
+            <p>Jack. I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don&#8217;t depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it.</p>
+            <p>Lady Bracknell. A country house! How many bedrooms? Well, that point can be cleared up afterwards. You have a town house, I hope? A girl with a simple, unspoiled nature, like Gwendolen, could hardly be expected to reside in the country.</p>
+            <p>Jack. Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months' notice.</p>
+            <p>Lady Bracknell. Lady Bloxham? I don&#8217;t know her.</p>
+            <p>Jack. Oh, she goes about very little. She is a lady considerably advanced in years.</p>
+            <p>Lady Bracknell. Ah, nowadays that is no guarantee of respectability of character. What number in Belgrave Square?</p>
+            <p>Jack. 149.</p>
+            <p>Lady Bracknell. [Shaking her head.] The unfashionable side. I thought there was something. However, that could easily be altered.</p>
+            <p>Jack. Do you mean the fashion, or the side?</p>
+            <p>Lady Bracknell. [Sternly.] Both, if necessary, I presume. What are your polities?</p>
+            <p>Jack. Well, I am afraid I really have none. I am a Liberal Unionist.</p>
+            <p>Lady Bracknell. Oh, they count as Tories. They dine with us. Or come in the evening, at any rate. Now to minor matters. Are your parents living?</p>
+            <p>Jack. I have lost both my parents.</p>
+            <p>Lady Bracknell. To lose one parent, Mr.&nbsp;Worthing, may be regarded as a misfortune; to lose both looks like carelessness. Who was your father? He was evidently a man of some wealth. Was he born in what the Radical papers call the purple of commerce, or did he rise from the ranks of the aristocracy?</p>
+            <p>Jack. I am afraid I really don&#8217;t know. The fact is, Lady Bracknell, I said I had lost my parents. It would be nearer the truth to say that my parents seem to have lost me&#8230;I don&#8217;t actually know who I am by birth. I was&#8230;well, I was found.</p>
+            <p>Lady Bracknell. Found!</p>
+            <p>Jack. The late Mr.&nbsp;Thomas Cardew, an old gentleman of a very charitable and kindly disposition, found me, and gave me the name of Worthing, because he happened to have a first&#8211;class ticket for Worthing in his pocket at the time. Worthing is a place in Sussex. It is a seaside resort.</p>
+            <p>Lady Bracknell. Where did the charitable gentleman who had a first&#8211;class ticket for this seaside resort find you?</p>
+            <p>Jack. [Gravely.] In a hand&#8211;bag.</p>
+            <p>Lady Bracknell. A hand&#8211;bag?</p>
+            <p>Jack. [Very seriously.] Yes, Lady Bracknell. I was in a hand&#8211;bag&#8212;a somewhat large, black leather hand&#8211;bag, with handles to it&#8212;an ordinary hand&#8211;bag in fact.</p>
+            <p>Lady Bracknell. In what locality did this Mr.&nbsp;James, or Thomas, Cardew come across this ordinary hand&#8211;bag?</p>
+            <p>Jack. In the cloak&#8211;room at Victoria Station. It was given to him in mistake for his own.</p>
+            <p>Lady Bracknell. The cloak&#8211;room at Victoria Station?</p>
+            <p>Jack. Yes. The Brighton line.</p>
+            <p>Lady Bracknell. The line is immaterial. Mr.&nbsp;Worthing, I confess I feel somewhat bewildered by what you have just told me. To be born, or at any rate bred, in a hand&#8211;bag, whether it had handles or not, seems to me to display a contempt for the ordinary decencies of family life that reminds one of the worst excesses of the French Revolution. And I presume you know what that unfortunate movement led to? As for the particular locality in which the hand&#8211;bag was found, a cloak&#8211;room at a railway station might serve to conceal a social indiscretion&#8212;has probably, indeed, been used for that purpose before now&#8212;but it could hardly be regarded as an assured basis for a recognised position in good society.</p>
+            <p>Jack. May I ask you then what you would advise me to do? I need hardly say I would do anything in the world to ensure Gwendolen&#8217;s happiness.</p>
+            <p>Lady Bracknell. I would strongly advise you, Mr.&nbsp;Worthing, to try and acquire some relations as soon as possible, and to make a definite effort to produce at any rate one parent, of either sex, before the season is quite over.</p>
+            <p>Jack. Well, I don&#8217;t see how I could possibly manage to do that. I can produce the hand&#8211;bag at any moment. It is in my dressing&#8211;room at home. I really think that should satisfy you, Lady Bracknell.</p>
+            <p>Lady Bracknell. Me, sir! What has it to do with me? You can hardly imagine that I and Lord Bracknell would dream of allowing our only daughter&#8212;a girl brought up with the utmost care&#8212;to marry into a cloak&#8211;room, and form an alliance with a parcel? Good morning, Mr.&nbsp;Worthing!</p>
+            <p>[Lady Bracknell sweeps out in majestic indignation.]</p>
+            <p>Jack. Good morning! [Algernon, from the other room, strikes up the Wedding March. Jack looks perfectly furious, and goes to the door.] For goodness' sake don&#8217;t play that ghastly tune, Algy. How idiotic you are!</p>
+            <p>[The music stops and Algernon enters cheerily.]</p>
+            <p>Algernon. Didn&#8217;t it go off all right, old boy? You don&#8217;t mean to say Gwendolen refused you? I know it is a way she has. She is always refusing people. I think it is most ill&#8211;natured of her.</p>
+            <p>Jack. Oh, Gwendolen is as right as a trivet. As far as she is concerned, we are engaged. Her mother is perfectly unbearable. Never met such a Gorgon&#8230;I don&#8217;t really know what a Gorgon is like, but I am quite sure that Lady Bracknell is one. In any case, she is a monster, without being a myth, which is rather unfair&#8230;I beg your pardon, Algy, I suppose I shouldn&#8217;t talk about your own aunt in that way before you.</p>
+            <p>Algernon. My dear boy, I love hearing my relations abused. It is the only thing that makes me put up with them at all. Relations are simply a tedious pack of people, who haven&#8217;t got the remotest knowledge of how to live, nor the smallest instinct about when to die.</p>
+            <p>Jack. Oh, that is nonsense!</p>
+            <p>Algernon. It isn&#8217;t!</p>
+            <p>Jack. Well, I won&#8217;t argue about the matter. You always want to argue about things.</p>
+            <p>Algernon. That is exactly what things were originally made for.</p>
+            <p>Jack. Upon my word, if I thought that, I&#8217;d shoot myself&#8230;[A pause.] You don&#8217;t think there is any chance of Gwendolen becoming like her mother in about a hundred and fifty years, do you, Algy?</p>
+            <p>Algernon. All women become like their mothers. That is their tragedy. No man does. That&#8217;s his.</p>
+            <p>Jack. Is that clever?</p>
+            <p>Algernon. It is perfectly phrased! and quite as true as any observation in civilised life should be.</p>
+            <p>Jack. I am sick to death of cleverness. Everybody is clever nowadays. You can&#8217;t go anywhere without meeting clever people. The thing has become an absolute public nuisance. I wish to goodness we had a few fools left.</p>
+            <p>Algernon. We have.</p>
+            <p>Jack. I should extremely like to meet them. What do they talk about?</p>
+            <p>Algernon. The fools? Oh! about the clever people, of course.</p>
+            <p>Jack. What fools!</p>
+            <p>Algernon. By the way, did you tell Gwendolen the truth about your being Ernest in town, and Jack in the country?</p>
+            <p>Jack. [In a very patronising manner.] My dear fellow, the truth isn&#8217;t quite the sort of thing one tells to a nice, sweet, refined girl. What extraordinary ideas you have about the way to behave to a woman!</p>
+            <p>Algernon. The only way to behave to a woman is to make love to her, if she is pretty, and to some one else, if she is plain.</p>
+            <p>Jack. Oh, that is nonsense.</p>
+            <p>Algernon. What about your brother? What about the profligate Ernest?</p>
+            <p>Jack. Oh, before the end of the week I shall have got rid of him. I&#8217;ll say he died in Paris of apoplexy. Lots of people die of apoplexy, quite suddenly, don&#8217;t they?</p>
+            <p>Algernon. Yes, but it&#8217;s hereditary, my dear fellow. It&#8217;s a sort of thing that runs in families. You had much better say a severe chill.</p>
+            <p>Jack. You are sure a severe chill isn&#8217;t hereditary, or anything of that kind?</p>
+            <p>Algernon. Of course it isn&#8217;t!</p>
+            <p>Jack. Very well, then. My poor brother Ernest to carried off suddenly, in Paris, by a severe chill. That gets rid of him.</p>
+            <p>Algernon. But I thought you said that&#8230;Miss Cardew was a little too much interested in your poor brother Ernest? Won&#8217;t she feel his loss a good deal?</p>
+            <p>Jack. Oh, that is all right. Cecily is not a silly romantic girl, I am glad to say. She has got a capital appetite, goes long walks, and pays no attention at all to her lessons.</p>
+            <p>Algernon. I would rather like to see Cecily.</p>
+            <p>Jack. I will take very good care you never do. She is excessively pretty, and she is only just eighteen.</p>
+            <p>Algernon. Have you told Gwendolen yet that you have an excessively pretty ward who is only just eighteen?</p>
+            <p>Jack. Oh! one doesn&#8217;t blurt these things out to people. Cecily and Gwendolen are perfectly certain to be extremely great friends. I&#8217;ll bet you anything you like that half an hour after they have met, they will be calling each other sister.</p>
+            <p>Algernon. Women only do that when they have called each other a lot of other things first. Now, my dear boy, if we want to get a good table at Willis&#8217;s, we really must go and dress. Do you know it is nearly seven?</p>
+            <p>Jack. [Irritably.] Oh! It always is nearly seven.</p>
+            <p>Algernon. Well, I&#8217;m hungry.</p>
+            <p>Jack. I never knew you when you weren&#8217;t . . .</p>
+            <p>Algernon. What shall we do after dinner? Go to a theatre?</p>
+            <p>Jack. Oh no! I loathe listening.</p>
+            <p>Algernon. Well, let us go to the Club?</p>
+            <p>Jack. Oh, no! I hate talking.</p>
+            <p>Algernon. Well, we might trot round to the Empire at ten?</p>
+            <p>Jack. Oh, no! I can&#8217;t bear looking at things. It is so silly.</p>
+            <p>Algernon. Well, what shall we do?</p>
+            <p>Jack. Nothing!</p>
+            <p>Algernon. It is awfully hard work doing nothing. However, I don&#8217;t mind hard work where there is no definite object of any kind.</p>
+            <p>[Enter Lane.]</p>
+            <p>Lane. Miss Fairfax.</p>
+            <p>[Enter Gwendolen. Lane goes out.]</p>
+            <p>Algernon. Gwendolen, upon my word!</p>
+            <p>Gwendolen. Algy, kindly turn your back. I have something very particular to say to Mr.&nbsp;Worthing.</p>
+            <p>Algernon. Really, Gwendolen, I don&#8217;t think I can allow this at all.</p>
+            <p>Gwendolen. Algy, you always adopt a strictly immoral attitude towards life. You are not quite old enough to do that. [Algernon retires to the fireplace.]</p>
+            <p>Jack. My own darling!</p>
+            <p>Gwendolen. Ernest, we may never be married. From the expression on mamma&#8217;s face I fear we never shall. Few parents nowadays pay any regard to what their children say to them. The old&#8211;fashioned respect for the young is fast dying out. Whatever influence I ever had over mamma, I lost at the age of three. But although she may prevent us from becoming man and wife, and I may marry some one else, and marry often, nothing that she can possibly do can alter my eternal devotion to you.</p>
+            <p>Jack. Dear Gwendolen!</p>
+            <p>Gwendolen. The story of your romantic origin, as related to me by mamma, with unpleasing comments, has naturally stirred the deeper fibres of my nature. Your Christian name has an irresistible fascination. The simplicity of your character makes you exquisitely incomprehensible to me. Your town address at the Albany I have. What is your address in the country?</p>
+            <p>Jack. The Manor House, Woolton, Hertfordshire.</p>
+            <p>[Algernon, who has been carefully listening, smiles to himself, and writes the address on his shirt&#8211;cuff. Then picks up the Railway Guide.]</p>
+            <p>Gwendolen. There is a good postal service, I suppose? It may be necessary to do something desperate. That of course will require serious consideration. I will communicate with you daily.</p>
+            <p>Jack. My own one!</p>
+            <p>Gwendolen. How long do you remain in town?</p>
+            <p>Jack. Till Monday.</p>
+            <p>Gwendolen. Good! Algy, you may turn round now.</p>
+            <p>Algernon. Thanks, I&#8217;ve turned round already.</p>
+            <p>Gwendolen. You may also ring the bell.</p>
+            <p>Jack. You will let me see you to your carriage, my own darling?</p>
+            <p>Gwendolen. Certainly.</p>
+            <p>Jack. [To Lane, who now enters.] I will see Miss Fairfax out.</p>
+            <p>Lane. Yes, sir. [Jack and Gwendolen go off.]</p>
+            <p>[Lane presents several letters on a salver to Algernon. It is to be surmised that they are bills, as Algernon, after looking at the envelopes, tears them up.]</p>
+            <p>Algernon. A glass of sherry, Lane.</p>
+            <p>Lane. Yes, sir.</p>
+            <p>Algernon. To&#8211;morrow, Lane, I&#8217;m going Bunburying.</p>
+            <p>Lane. Yes, sir.</p>
+            <p>Algernon. I shall probably not be back till Monday. You can put up my dress clothes, my smoking jacket, and all the Bunbury suits . . .</p>
+            <p>Lane. Yes, sir. [Handing sherry.]</p>
+            <p>Algernon. I hope to&#8211;morrow will be a fine day, Lane.</p>
+            <p>Lane. It never is, sir.</p>
+            <p>Algernon. Lane, you&#8217;re a perfect pessimist.</p>
+            <p>Lane. I do my best to give satisfaction, sir.</p>
+            <p>[Enter Jack. Lane goes off.]</p>
+            <p>Jack. There&#8217;s a sensible, intellectual girl! the only girl I ever cared for in my life. [Algernon is laughing immoderately.] What on earth are you so amused at?</p>
+            <p>Algernon. Oh, I&#8217;m a little anxious about poor Bunbury, that is all.</p>
+            <p>Jack. If you don&#8217;t take care, your friend Bunbury will get you into a serious scrape some day.</p>
+            <p>Algernon. I love scrapes. They are the only things that are never serious.</p>
+            <p>Jack. Oh, that&#8217;s nonsense, Algy. You never talk anything but nonsense.</p>
+            <p>Algernon. Nobody ever does.</p>
+            <p>[Jack looks indignantly at him, and leaves the room. Algernon lights a cigarette, reads his shirt&#8211;cuff, and smiles.]</p>
+            <p>ACT DROP</p>
+         </div>
+      </div>
+   </body>
+</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <head>
+      <title>SECOND ACT - SCENE | The Importance of Being Earnest</title>
+      <link rel="stylesheet" href="css/book.css" type="text/css"/>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+      <meta name="EPB-UUID" content="38F60DBD-6C07-1014-AB8C-CCF8A6C08ECA"/>
+   </head>
+   <body>
+      <div class="body">
+         <div class="chapter">
+            <h3 class="chapter-title">SECOND ACT</h3>
+            <h4 class="chapter-subtitle">SCENE</h4>
+            <p>Garden at the Manor House. A flight of grey stone steps leads up to the house. The garden, an old&#8211;fashioned one, full of roses. Time of year, July. Basket chairs, and a table covered with books, are set under a large yew&#8211;tree.</p>
+            <p>[Miss Prism discovered seated at the table. Cecily is at the back watering flowers.]</p>
+            <p>Miss Prism. [Calling.] Cecily, Cecily! Surely such a utilitarian occupation as the watering of flowers is rather Moulton&#8217;s duty than yours? Especially at a moment when intellectual pleasures await you. Your German grammar is on the table. Pray open it at page fifteen. We will repeat yesterday&#8217;s lesson.</p>
+            <p>Cecily. [Coming over very slowly.] But I don&#8217;t like German. It isn&#8217;t at all a becoming language. I know perfectly well that I look quite plain after my German lesson.</p>
+            <p>Miss Prism. Child, you know how anxious your guardian is that you should improve yourself in every way. He laid particular stress on your German, as he was leaving for town yesterday. Indeed, he always lays stress on your German when he is leaving for town.</p>
+            <p>Cecily. Dear Uncle Jack is so very serious! Sometimes he is so serious that I think he cannot be quite well.</p>
+            <p>Miss Prism. [Drawing herself up.] Your guardian enjoys the best of health, and his gravity of demeanour is especially to be commended in one so comparatively young as he is. I know no one who has a higher sense of duty and responsibility.</p>
+            <p>Cecily. I suppose that is why he often looks a little bored when we three are together.</p>
+            <p>Miss Prism. Cecily! I am surprised at you. Mr.&nbsp;Worthing has many troubles in his life. Idle merriment and triviality would be out of place in his conversation. You must remember his constant anxiety about that unfortunate young man his brother.</p>
+            <p>Cecily. I wish Uncle Jack would allow that unfortunate young man, his brother, to come down here sometimes. We might have a good influence over him, Miss Prism. I am sure you certainly would. You know German, and geology, and things of that kind influence a man very much. [Cecily begins to write in her diary.]</p>
+            <p>Miss Prism. [Shaking her head.] I do not think that even I could produce any effect on a character that according to his own brother&#8217;s admission is irretrievably weak and vacillating. Indeed I am not sure that I would desire to reclaim him. I am not in favour of this modern mania for turning bad people into good people at a moment&#8217;s notice. As a man sows so let him reap. You must put away your diary, Cecily. I really don&#8217;t see why you should keep a diary at all.</p>
+            <p>Cecily. I keep a diary in order to enter the wonderful secrets of my life. If I didn&#8217;t write them down, I should probably forget all about them.</p>
+            <p>Miss Prism. Memory, my dear Cecily, is the diary that we all carry about with us.</p>
+            <p>Cecily. Yes, but it usually chronicles the things that have never happened, and couldn&#8217;t possibly have happened. I believe that Memory is responsible for nearly all the three&#8211;volume novels that Mudie sends us.</p>
+            <p>Miss Prism. Do not speak slightingly of the three&#8211;volume novel, Cecily. I wrote one myself in earlier days.</p>
+            <p>Cecily. Did you really, Miss Prism? How wonderfully clever you are! I hope it did not end happily? I don&#8217;t like novels that end happily. They depress me so much.</p>
+            <p>Miss Prism. The good ended happily, and the bad unhappily. That is what Fiction means.</p>
+            <p>Cecily. I suppose so. But it seems very unfair. And was your novel ever published?</p>
+            <p>Miss Prism. Alas! no. The manuscript unfortunately was abandoned. [Cecily starts.] I use the word in the sense of lost or mislaid. To your work, child, these speculations are profitless.</p>
+            <p>Cecily. [Smiling.] But I see dear Dr.&nbsp;Chasuble coming up through the garden.</p>
+            <p>Miss Prism. [Rising and advancing.] Dr.&nbsp;Chasuble! This is indeed a pleasure.</p>
+            <p>[Enter Canon Chasuble.]</p>
+            <p>Chasuble. And how are we this morning? Miss Prism, you are, I trust, well?</p>
+            <p>Cecily. Miss Prism has just been complaining of a slight headache. I think it would do her so much good to have a short stroll with you in the Park, Dr.&nbsp;Chasuble.</p>
+            <p>Miss Prism. Cecily, I have not mentioned anything about a headache.</p>
+            <p>Cecily. No, dear Miss Prism, I know that, but I felt instinctively that you had a headache. Indeed I was thinking about that, and not about my German lesson, when the Rector came in.</p>
+            <p>Chasuble. I hope, Cecily, you are not inattentive.</p>
+            <p>Cecily. Oh, I am afraid I am.</p>
+            <p>Chasuble. That is strange. Were I fortunate enough to be Miss Prism&#8217;s pupil, I would hang upon her lips. [Miss Prism glares.] I spoke metaphorically.&#8212;My metaphor was drawn from bees. Ahem! Mr.&nbsp;Worthing, I suppose, has not returned from town yet?</p>
+            <p>Miss Prism. We do not expect him till Monday afternoon.</p>
+            <p>Chasuble. Ah yes, he usually likes to spend his Sunday in London. He is not one of those whose sole aim is enjoyment, as, by all accounts, that unfortunate young man his brother seems to be. But I must not disturb Egeria and her pupil any longer.</p>
+            <p>Miss Prism. Egeria? My name is Laetitia, Doctor.</p>
+            <p>Chasuble. [Bowing.] A classical allusion merely, drawn from the Pagan authors. I shall see you both no doubt at Evensong?</p>
+            <p>Miss Prism. I think, dear Doctor, I will have a stroll with you. I find I have a headache after all, and a walk might do it good.</p>
+            <p>Chasuble. With pleasure, Miss Prism, with pleasure. We might go as far as the schools and back.</p>
+            <p>Miss Prism. That would be delightful. Cecily, you will read your Political Economy in my absence. The chapter on the Fall of the Rupee you may omit. It is somewhat too sensational. Even these metallic problems have their melodramatic side.</p>
+            <p>[Goes down the garden with Dr.&nbsp;Chasuble.]</p>
+            <p>Cecily. [Picks up books and throws them back on table.] Horrid Political Economy! Horrid Geography! Horrid, horrid German!</p>
+            <p>[Enter Merriman with a card on a salver.]</p>
+            <p>Merriman. Mr.&nbsp;Ernest Worthing has just driven over from the station. He has brought his luggage with him.</p>
+            <p>Cecily. [Takes the card and reads it.] 'Mr. Ernest Worthing, B. 4, The Albany, W.' Uncle Jack&#8217;s brother! Did you tell him Mr.&nbsp;Worthing was in town?</p>
+            <p>Merriman. Yes, Miss. He seemed very much disappointed. I mentioned that you and Miss Prism were in the garden. He said he was anxious to speak to you privately for a moment.</p>
+            <p>Cecily. Ask Mr.&nbsp;Ernest Worthing to come here. I suppose you had better talk to the housekeeper about a room for him.</p>
+            <p>Merriman. Yes, Miss.</p>
+            <p>[Merriman goes off.]</p>
+            <p>Cecily. I have never met any really wicked person before. I feel rather frightened. I am so afraid he will look just like every one else.</p>
+            <p>[Enter Algernon, very gay and debonnair.] He does!</p>
+            <p>Algernon. [Raising his hat.] You are my little cousin Cecily, I&#8217;m sure.</p>
+            <p>Cecily. You are under some strange mistake. I am not little. In fact, I believe I am more than usually tall for my age. [Algernon is rather taken aback.] But I am your cousin Cecily. You, I see from your card, are Uncle Jack&#8217;s brother, my cousin Ernest, my wicked cousin Ernest.</p>
+            <p>Algernon. Oh! I am not really wicked at all, cousin Cecily. You mustn&#8217;t think that I am wicked.</p>
+            <p>Cecily. If you are not, then you have certainly been deceiving us all in a very inexcusable manner. I hope you have not been leading a double life, pretending to be wicked and being really good all the time. That would be hypocrisy.</p>
+            <p>Algernon. [Looks at her in amazement.] Oh! Of course I have been rather reckless.</p>
+            <p>Cecily. I am glad to hear it.</p>
+            <p>Algernon. In fact, now you mention the subject, I have been very bad in my own small way.</p>
+            <p>Cecily. I don&#8217;t think you should be so proud of that, though I am sure it must have been very pleasant.</p>
+            <p>Algernon. It is much pleasanter being here with you.</p>
+            <p>Cecily. I can&#8217;t understand how you are here at all. Uncle Jack won&#8217;t be back till Monday afternoon.</p>
+            <p>Algernon. That is a great disappointment. I am obliged to go up by the first train on Monday morning. I have a business appointment that I am anxious&#8230;to miss?</p>
+            <p>Cecily. Couldn&#8217;t you miss it anywhere but in London?</p>
+            <p>Algernon. No: the appointment is in London.</p>
+            <p>Cecily. Well, I know, of course, how important it is not to keep a business engagement, if one wants to retain any sense of the beauty of life, but still I think you had better wait till Uncle Jack arrives. I know he wants to speak to you about your emigrating.</p>
+            <p>Algernon. About my what?</p>
+            <p>Cecily. Your emigrating. He has gone up to buy your outfit.</p>
+            <p>Algernon. I certainly wouldn&#8217;t let Jack buy my outfit. He has no taste in neckties at all.</p>
+            <p>Cecily. I don&#8217;t think you will require neckties. Uncle Jack is sending you to Australia.</p>
+            <p>Algernon. Australia! I&#8217;d sooner die.</p>
+            <p>Cecily. Well, he said at dinner on Wednesday night, that you would have to choose between this world, the next world, and Australia.</p>
+            <p>Algernon. Oh, well! The accounts I have received of Australia and the next world, are not particularly encouraging. This world is good enough for me, cousin Cecily.</p>
+            <p>Cecily. Yes, but are you good enough for it?</p>
+            <p>Algernon. I&#8217;m afraid I&#8217;m not that. That is why I want you to reform me. You might make that your mission, if you don&#8217;t mind, cousin Cecily.</p>
+            <p>Cecily. I&#8217;m afraid I&#8217;ve no time, this afternoon.</p>
+            <p>Algernon. Well, would you mind my reforming myself this afternoon?</p>
+            <p>Cecily. It is rather Quixotic of you. But I think you should try.</p>
+            <p>Algernon. I will. I feel better already.</p>
+            <p>Cecily. You are looking a little worse.</p>
+            <p>Algernon. That is because I am hungry.</p>
+            <p>Cecily. How thoughtless of me. I should have remembered that when one is going to lead an entirely new life, one requires regular and wholesome meals. Won&#8217;t you come in?</p>
+            <p>Algernon. Thank you. Might I have a buttonhole first? I never have any appetite unless I have a buttonhole first.</p>
+            <p>Cecily. A Marechal Niel? [Picks up scissors.]</p>
+            <p>Algernon. No, I&#8217;d sooner have a pink rose.</p>
+            <p>Cecily. Why? [Cuts a flower.]</p>
+            <p>Algernon. Because you are like a pink rose, Cousin Cecily.</p>
+            <p>Cecily. I don&#8217;t think it can be right for you to talk to me like that. Miss Prism never says such things to me.</p>
+            <p>Algernon. Then Miss Prism is a short&#8211;sighted old lady. [Cecily puts the rose in his buttonhole.] You are the prettiest girl I ever saw.</p>
+            <p>Cecily. Miss Prism says that all good looks are a snare.</p>
+            <p>Algernon. They are a snare that every sensible man would like to be caught in.</p>
+            <p>Cecily. Oh, I don&#8217;t think I would care to catch a sensible man. I shouldn&#8217;t know what to talk to him about.</p>
+            <p>[They pass into the house. Miss Prism and Dr.&nbsp;Chasuble return.]</p>
+            <p>Miss Prism. You are too much alone, dear Dr.&nbsp;Chasuble. You should get married. A misanthrope I can understand&#8212;a womanthrope, never!</p>
+            <p>Chasuble. [With a scholar&#8217;s shudder.] Believe me, I do not deserve so neologistic a phrase. The precept as well as the practice of the Primitive Church was distinctly against matrimony.</p>
+            <p>Miss Prism. [Sententiously.] That is obviously the reason why the Primitive Church has not lasted up to the present day. And you do not seem to realise, dear Doctor, that by persistently remaining single, a man converts himself into a permanent public temptation. Men should be more careful; this very celibacy leads weaker vessels astray.</p>
+            <p>Chasuble. But is a man not equally attractive when married?</p>
+            <p>Miss Prism. No married man is ever attractive except to his wife.</p>
+            <p>Chasuble. And often, I&#8217;ve been told, not even to her.</p>
+            <p>Miss Prism. That depends on the intellectual sympathies of the woman. Maturity can always be depended on. Ripeness can be trusted. Young women are green. [Dr. Chasuble starts.] I spoke horticulturally. My metaphor was drawn from fruits. But where is Cecily?</p>
+            <p>Chasuble. Perhaps she followed us to the schools.</p>
+            <p>[Enter Jack slowly from the back of the garden. He is dressed in the deepest mourning, with crape hatband and black gloves.]</p>
+            <p>Miss Prism. Mr.&nbsp;Worthing!</p>
+            <p>Chasuble. Mr.&nbsp;Worthing?</p>
+            <p>Miss Prism. This is indeed a surprise. We did not look for you till Monday afternoon.</p>
+            <p>Jack. [Shakes Miss Prism&#8217;s hand in a tragic manner.] I have returned sooner than I expected. Dr.&nbsp;Chasuble, I hope you are well?</p>
+            <p>Chasuble. Dear Mr.&nbsp;Worthing, I trust this garb of woe does not betoken some terrible calamity?</p>
+            <p>Jack. My brother.</p>
+            <p>Miss Prism. More shameful debts and extravagance?</p>
+            <p>Chasuble. Still leading his life of pleasure?</p>
+            <p>Jack. [Shaking his head.] Dead!</p>
+            <p>Chasuble. Your brother Ernest dead?</p>
+            <p>Jack. Quite dead.</p>
+            <p>Miss Prism. What a lesson for him! I trust he will profit by it.</p>
+            <p>Chasuble. Mr.&nbsp;Worthing, I offer you my sincere condolence. You have at least the consolation of knowing that you were always the most generous and forgiving of brothers.</p>
+            <p>Jack. Poor Ernest! He had many faults, but it is a sad, sad blow.</p>
+            <p>Chasuble. Very sad indeed. Were you with him at the end?</p>
+            <p>Jack. No. He died abroad; in Paris, in fact. I had a telegram last night from the manager of the Grand Hotel.</p>
+            <p>Chasuble. Was the cause of death mentioned?</p>
+            <p>Jack. A severe chill, it seems.</p>
+            <p>Miss Prism. As a man sows, so shall he reap.</p>
+            <p>Chasuble. [Raising his hand.] Charity, dear Miss Prism, charity! None of us are perfect. I myself am peculiarly susceptible to draughts. Will the interment take place here?</p>
+            <p>Jack. No. He seems to have expressed a desire to be buried in Paris.</p>
+            <p>Chasuble. In Paris! [Shakes his head.] I fear that hardly points to any very serious state of mind at the last. You would no doubt wish me to make some slight allusion to this tragic domestic affliction next Sunday. [Jack presses his hand convulsively.] My sermon on the meaning of the manna in the wilderness can be adapted to almost any occasion, joyful, or, as in the present case, distressing. [All sigh.] I have preached it at harvest celebrations, christenings, confirmations, on days of humiliation and festal days. The last time I delivered it was in the Cathedral, as a charity sermon on behalf of the Society for the Prevention of Discontent among the Upper Orders. The Bishop, who was present, was much struck by some of the analogies I drew.</p>
+            <p>Jack. Ah! that reminds me, you mentioned christenings I think, Dr.&nbsp;Chasuble? I suppose you know how to christen all right? [Dr. Chasuble looks astounded.] I mean, of course, you are continually christening, aren&#8217;t you?</p>
+            <p>Miss Prism. It is, I regret to say, one of the Rector&#8217;s most constant duties in this parish. I have often spoken to the poorer classes on the subject. But they don&#8217;t seem to know what thrift is.</p>
+            <p>Chasuble. But is there any particular infant in whom you are interested, Mr.&nbsp;Worthing? Your brother was, I believe, unmarried, was he not?</p>
+            <p>Jack. Oh yes.</p>
+            <p>Miss Prism. [Bitterly.] People who live entirely for pleasure usually are.</p>
+            <p>Jack. But it is not for any child, dear Doctor. I am very fond of children. No! the fact is, I would like to be christened myself, this afternoon, if you have nothing better to do.</p>
+            <p>Chasuble. But surely, Mr.&nbsp;Worthing, you have been christened already?</p>
+            <p>Jack. I don&#8217;t remember anything about it.</p>
+            <p>Chasuble. But have you any grave doubts on the subject?</p>
+            <p>Jack. I certainly intend to have. Of course I don&#8217;t know if the thing would bother you in any way, or if you think I am a little too old now.</p>
+            <p>Chasuble. Not at all. The sprinkling, and, indeed, the immersion of adults is a perfectly canonical practice.</p>
+            <p>Jack. Immersion!</p>
+            <p>Chasuble. You need have no apprehensions. Sprinkling is all that is necessary, or indeed I think advisable. Our weather is so changeable. At what hour would you wish the ceremony performed?</p>
+            <p>Jack. Oh, I might trot round about five if that would suit you.</p>
+            <p>Chasuble. Perfectly, perfectly! In fact I have two similar ceremonies to perform at that time. A case of twins that occurred recently in one of the outlying cottages on your own estate. Poor Jenkins the carter, a most hard&#8211;working man.</p>
+            <p>Jack. Oh! I don&#8217;t see much fun in being christened along with other babies. It would be childish. Would half&#8211;past five do?</p>
+            <p>Chasuble. Admirably! Admirably! [Takes out watch.] And now, dear Mr.&nbsp;Worthing, I will not intrude any longer into a house of sorrow. I would merely beg you not to be too much bowed down by grief. What seem to us bitter trials are often blessings in disguise.</p>
+            <p>Miss Prism. This seems to me a blessing of an extremely obvious kind.</p>
+            <p>[Enter Cecily from the house.]</p>
+            <p>Cecily. Uncle Jack! Oh, I am pleased to see you back. But what horrid clothes you have got on! Do go and change them.</p>
+            <p>Miss Prism. Cecily!</p>
+            <p>Chasuble. My child! my child! [Cecily goes towards Jack; he kisses her brow in a melancholy manner.]</p>
+            <p>Cecily. What is the matter, Uncle Jack? Do look happy! You look as if you had toothache, and I have got such a surprise for you. Who do you think is in the dining&#8211;room? Your brother!</p>
+            <p>Jack. Who?</p>
+            <p>Cecily. Your brother Ernest. He arrived about half an hour ago.</p>
+            <p>Jack. What nonsense! I haven&#8217;t got a brother.</p>
+            <p>Cecily. Oh, don&#8217;t say that. However badly he may have behaved to you in the past he is still your brother. You couldn&#8217;t be so heartless as to disown him. I&#8217;ll tell him to come out. And you will shake hands with him, won&#8217;t you, Uncle Jack? [Runs back into the house.]</p>
+            <p>Chasuble. These are very joyful tidings.</p>
+            <p>Miss Prism. After we had all been resigned to his loss, his sudden return seems to me peculiarly distressing.</p>
+            <p>Jack. My brother is in the dining&#8211;room? I don&#8217;t know what it all means. I think it is perfectly absurd.</p>
+            <p>[Enter Algernon and Cecily hand in hand. They come slowly up to Jack.]</p>
+            <p>Jack. Good heavens! [Motions Algernon away.]</p>
+            <p>Algernon. Brother John, I have come down from town to tell you that I am very sorry for all the trouble I have given you, and that I intend to lead a better life in the future. [Jack glares at him and does not take his hand.]</p>
+            <p>Cecily. Uncle Jack, you are not going to refuse your own brother&#8217;s hand?</p>
+            <p>Jack. Nothing will induce me to take his hand. I think his coming down here disgraceful. He knows perfectly well why.</p>
+            <p>Cecily. Uncle Jack, do be nice. There is some good in every one. Ernest has just been telling me about his poor invalid friend Mr.&nbsp;Bunbury whom he goes to visit so often. And surely there must be much good in one who is kind to an invalid, and leaves the pleasures of London to sit by a bed of pain.</p>
+            <p>Jack. Oh! he has been talking about Bunbury, has he?</p>
+            <p>Cecily. Yes, he has told me all about poor Mr.&nbsp;Bunbury, and his terrible state of health.</p>
+            <p>Jack. Bunbury! Well, I won&#8217;t have him talk to you about Bunbury or about anything else. It is enough to drive one perfectly frantic.</p>
+            <p>Algernon. Of course I admit that the faults were all on my side. But I must say that I think that Brother John&#8217;s coldness to me is peculiarly painful. I expected a more enthusiastic welcome, especially considering it is the first time I have come here.</p>
+            <p>Cecily. Uncle Jack, if you don&#8217;t shake hands with Ernest I will never forgive you.</p>
+            <p>Jack. Never forgive me?</p>
+            <p>Cecily. Never, never, never!</p>
+            <p>Jack. Well, this is the last time I shall ever do it. [Shakes with Algernon and glares.]</p>
+            <p>Chasuble. It&#8217;s pleasant, is it not, to see so perfect a reconciliation? I think we might leave the two brothers together.</p>
+            <p>Miss Prism. Cecily, you will come with us.</p>
+            <p>Cecily. Certainly, Miss Prism. My little task of reconciliation is over.</p>
+            <p>Chasuble. You have done a beautiful action to&#8211;day, dear child.</p>
+            <p>Miss Prism. We must not be premature in our judgments.</p>
+            <p>Cecily. I feel very happy. [They all go off except Jack and Algernon.]</p>
+            <p>Jack. You young scoundrel, Algy, you must get out of this place as soon as possible. I don&#8217;t allow any Bunburying here.</p>
+            <p>[Enter Merriman.]</p>
+            <p>Merriman. I have put Mr.&nbsp;Ernest&#8217;s things in the room next to yours, sir. I suppose that is all right?</p>
+            <p>Jack. What?</p>
+            <p>Merriman. Mr.&nbsp;Ernest&#8217;s luggage, sir. I have unpacked it and put it in the room next to your own.</p>
+            <p>Jack. His luggage?</p>
+            <p>Merriman. Yes, sir. Three portmanteaus, a dressing&#8211;case, two hat&#8211;boxes, and a large luncheon&#8211;basket.</p>
+            <p>Algernon. I am afraid I can&#8217;t stay more than a week this time.</p>
+            <p>Jack. Merriman, order the dog&#8211;cart at once. Mr.&nbsp;Ernest has been suddenly called back to town.</p>
+            <p>Merriman. Yes, sir. [Goes back into the house.]</p>
+            <p>Algernon. What a fearful liar you are, Jack. I have not been called back to town at all.</p>
+            <p>Jack. Yes, you have.</p>
+            <p>Algernon. I haven&#8217;t heard any one call me.</p>
+            <p>Jack. Your duty as a gentleman calls you back.</p>
+            <p>Algernon. My duty as a gentleman has never interfered with my pleasures in the smallest degree.</p>
+            <p>Jack. I can quite understand that.</p>
+            <p>Algernon. Well, Cecily is a darling.</p>
+            <p>Jack. You are not to talk of Miss Cardew like that. I don&#8217;t like it.</p>
+            <p>Algernon. Well, I don&#8217;t like your clothes. You look perfectly ridiculous in them. Why on earth don&#8217;t you go up and change? It is perfectly childish to be in deep mourning for a man who is actually staying for a whole week with you in your house as a guest. I call it grotesque.</p>
+            <p>Jack. You are certainly not staying with me for a whole week as a guest or anything else. You have got to leave&#8230;by the four&#8211;five train.</p>
+            <p>Algernon. I certainly won&#8217;t leave you so long as you are in mourning. It would be most unfriendly. If I were in mourning you would stay with me, I suppose. I should think it very unkind if you didn&#8217;t.</p>
+            <p>Jack. Well, will you go if I change my clothes?</p>
+            <p>Algernon. Yes, if you are not too long. I never saw anybody take so long to dress, and with such little result.</p>
+            <p>Jack. Well, at any rate, that is better than being always over&#8211;dressed as you are.</p>
+            <p>Algernon. If I am occasionally a little over&#8211;dressed, I make up for it by being always immensely over&#8211;educated.</p>
+            <p>Jack. Your vanity is ridiculous, your conduct an outrage, and your presence in my garden utterly absurd. However, you have got to catch the four&#8211;five, and I hope you will have a pleasant journey back to town. This Bunburying, as you call it, has not been a great success for you.</p>
+            <p>[Goes into the house.]</p>
+            <p>Algernon. I think it has been a great success. I&#8217;m in love with Cecily, and that is everything.</p>
+            <p>[Enter Cecily at the back of the garden. She picks up the can and begins to water the flowers.] But I must see her before I go, and make arrangements for another Bunbury. Ah, there she is.</p>
+            <p>Cecily. Oh, I merely came back to water the roses. I thought you were with Uncle Jack.</p>
+            <p>Algernon. He&#8217;s gone to order the dog&#8211;cart for me.</p>
+            <p>Cecily. Oh, is he going to take you for a nice drive?</p>
+            <p>Algernon. He&#8217;s going to send me away.</p>
+            <p>Cecily. Then have we got to part?</p>
+            <p>Algernon. I am afraid so. It&#8217;s a very painful parting.</p>
+            <p>Cecily. It is always painful to part from people whom one has known for a very brief space of time. The absence of old friends one can endure with equanimity. But even a momentary separation from anyone to whom one has just been introduced is almost unbearable.</p>
+            <p>Algernon. Thank you.</p>
+            <p>[Enter Merriman.]</p>
+            <p>Merriman. The dog&#8211;cart is at the door, sir. [Algernon looks appealingly at Cecily.]</p>
+            <p>Cecily. It can wait, Merriman for&#8230;five minutes.</p>
+            <p>Merriman. Yes, Miss. [Exit Merriman.]</p>
+            <p>Algernon. I hope, Cecily, I shall not offend you if I state quite frankly and openly that you seem to me to be in every way the visible personification of absolute perfection.</p>
+            <p>Cecily. I think your frankness does you great credit, Ernest. If you will allow me, I will copy your remarks into my diary. [Goes over to table and begins writing in diary.]</p>
+            <p>Algernon. Do you really keep a diary? I&#8217;d give anything to look at it. May I?</p>
+            <p>Cecily. Oh no. [Puts her hand over it.] You see, it is simply a very young girl&#8217;s record of her own thoughts and impressions, and consequently meant for publication. When it appears in volume form I hope you will order a copy. But pray, Ernest, don&#8217;t stop. I delight in taking down from dictation. I have reached 'absolute perfection'. You can go on. I am quite ready for more.</p>
+            <p>Algernon. [Somewhat taken aback.] Ahem! Ahem!</p>
+            <p>Cecily. Oh, don&#8217;t cough, Ernest. When one is dictating one should speak fluently and not cough. Besides, I don&#8217;t know how to spell a cough. [Writes as Algernon speaks.]</p>
+            <p>Algernon. [Speaking very rapidly.] Cecily, ever since I first looked upon your wonderful and incomparable beauty, I have dared to love you wildly, passionately, devotedly, hopelessly.</p>
+            <p>Cecily. I don&#8217;t think that you should tell me that you love me wildly, passionately, devotedly, hopelessly. Hopelessly doesn&#8217;t seem to make much sense, does it?</p>
+            <p>Algernon. Cecily!</p>
+            <p>[Enter Merriman.]</p>
+            <p>Merriman. The dog&#8211;cart is waiting, sir.</p>
+            <p>Algernon. Tell it to come round next week, at the same hour.</p>
+            <p>Merriman. [Looks at Cecily, who makes no sign.] Yes, sir.</p>
+            <p>[Merriman retires.]</p>
+            <p>Cecily. Uncle Jack would be very much annoyed if he knew you were staying on till next week, at the same hour.</p>
+            <p>Algernon. Oh, I don&#8217;t care about Jack. I don&#8217;t care for anybody in the whole world but you. I love you, Cecily. You will marry me, won&#8217;t you?</p>
+            <p>Cecily. You silly boy! Of course. Why, we have been engaged for the last three months.</p>
+            <p>Algernon. For the last three months?</p>
+            <p>Cecily. Yes, it will be exactly three months on Thursday.</p>
+            <p>Algernon. But how did we become engaged?</p>
+            <p>Cecily. Well, ever since dear Uncle Jack first confessed to us that he had a younger brother who was very wicked and bad, you of course have formed the chief topic of conversation between myself and Miss Prism. And of course a man who is much talked about is always very attractive. One feels there must be something in him, after all. I daresay it was foolish of me, but I fell in love with you, Ernest.</p>
+            <p>Algernon. Darling! And when was the engagement actually settled?</p>
+            <p>Cecily. On the 14th of February last. Worn out by your entire ignorance of my existence, I determined to end the matter one way or the other, and after a long struggle with myself I accepted you under this dear old tree here. The next day I bought this little ring in your name, and this is the little bangle with the true lover&#8217;s knot I promised you always to wear.</p>
+            <p>Algernon. Did I give you this? It&#8217;s very pretty, isn&#8217;t it?</p>
+            <p>Cecily. Yes, you&#8217;ve wonderfully good taste, Ernest. It&#8217;s the excuse I&#8217;ve always given for your leading such a bad life. And this is the box in which I keep all your dear letters. [Kneels at table, opens box, and produces letters tied up with blue ribbon.]</p>
+            <p>Algernon. My letters! But, my own sweet Cecily, I have never written you any letters.</p>
+            <p>Cecily. You need hardly remind me of that, Ernest. I remember only too well that I was forced to write your letters for you. I wrote always three times a week, and sometimes oftener.</p>
+            <p>Algernon. Oh, do let me read them, Cecily?</p>
+            <p>Cecily. Oh, I couldn&#8217;t possibly. They would make you far too conceited. [Replaces box.] The three you wrote me after I had broken off the engagement are so beautiful, and so badly spelled, that even now I can hardly read them without crying a little.</p>
+            <p>Algernon. But was our engagement ever broken off?</p>
+            <p>Cecily. Of course it was. On the 22nd of last March. You can see the entry if you like. [Shows diary.] 'To&#8211;day I broke off my engagement with Ernest. I feel it is better to do so. The weather still continues charming.'</p>
+            <p>Algernon. But why on earth did you break it off? What had I done? I had done nothing at all. Cecily, I am very much hurt indeed to hear you broke it off. Particularly when the weather was so charming.</p>
+            <p>Cecily. It would hardly have been a really serious engagement if it hadn&#8217;t been broken off at least once. But I forgave you before the week was out.</p>
+            <p>Algernon. [Crossing to her, and kneeling.] What a perfect angel you are, Cecily.</p>
+            <p>Cecily. You dear romantic boy. [He kisses her, she puts her fingers through his hair.] I hope your hair curls naturally, does it?</p>
+            <p>Algernon. Yes, darling, with a little help from others.</p>
+            <p>Cecily. I am so glad.</p>
+            <p>Algernon. You&#8217;ll never break off our engagement again, Cecily?</p>
+            <p>Cecily. I don&#8217;t think I could break it off now that I have actually met you. Besides, of course, there is the question of your name.</p>
+            <p>Algernon. Yes, of course. [Nervously.]</p>
+            <p>Cecily. You must not laugh at me, darling, but it had always been a girlish dream of mine to love some one whose name was Ernest. [Algernon rises, Cecily also.] There is something in that name that seems to inspire absolute confidence. I pity any poor married woman whose husband is not called Ernest.</p>
+            <p>Algernon. But, my dear child, do you mean to say you could not love me if I had some other name?</p>
+            <p>Cecily. But what name?</p>
+            <p>Algernon. Oh, any name you like&#8212;Algernon&#8212;for instance . . .</p>
+            <p>Cecily. But I don&#8217;t like the name of Algernon.</p>
+            <p>Algernon. Well, my own dear, sweet, loving little darling, I really can&#8217;t see why you should object to the name of Algernon. It is not at all a bad name. In fact, it is rather an aristocratic name. Half of the chaps who get into the Bankruptcy Court are called Algernon. But seriously, Cecily&#8230;[Moving to her]&#8230;if my name was Algy, couldn&#8217;t you love me?</p>
+            <p>Cecily. [Rising.] I might respect you, Ernest, I might admire your character, but I fear that I should not be able to give you my undivided attention.</p>
+            <p>Algernon. Ahem! Cecily! [Picking up hat.] Your Rector here is, I suppose, thoroughly experienced in the practice of all the rites and ceremonials of the Church?</p>
+            <p>Cecily. Oh, yes. Dr.&nbsp;Chasuble is a most learned man. He has never written a single book, so you can imagine how much he knows.</p>
+            <p>Algernon. I must see him at once on a most important christening&#8212;I mean on most important business.</p>
+            <p>Cecily. Oh!</p>
+            <p>Algernon. I shan&#8217;t be away more than half an hour.</p>
+            <p>Cecily. Considering that we have been engaged since February the 14th, and that I only met you to&#8211;day for the first time, I think it is rather hard that you should leave me for so long a period as half an hour. Couldn&#8217;t you make it twenty minutes?</p>
+            <p>Algernon. I&#8217;ll be back in no time.</p>
+            <p>[Kisses her and rushes down the garden.]</p>
+            <p>Cecily. What an impetuous boy he is! I like his hair so much. I must enter his proposal in my diary.</p>
+            <p>[Enter Merriman.]</p>
+            <p>Merriman. A Miss Fairfax has just called to see Mr.&nbsp;Worthing. On very important business, Miss Fairfax states.</p>
+            <p>Cecily. Isn&#8217;t Mr.&nbsp;Worthing in his library?</p>
+            <p>Merriman. Mr.&nbsp;Worthing went over in the direction of the Rectory some time ago.</p>
+            <p>Cecily. Pray ask the lady to come out here; Mr.&nbsp;Worthing is sure to be back soon. And you can bring tea.</p>
+            <p>Merriman. Yes, Miss. [Goes out.]</p>
+            <p>Cecily. Miss Fairfax! I suppose one of the many good elderly women who are associated with Uncle Jack in some of his philanthropic work in London. I don&#8217;t quite like women who are interested in philanthropic work. I think it is so forward of them.</p>
+            <p>[Enter Merriman.]</p>
+            <p>Merriman. Miss Fairfax.</p>
+            <p>[Enter Gwendolen.]</p>
+            <p>[Exit Merriman.]</p>
+            <p>Cecily. [Advancing to meet her.] Pray let me introduce myself to you. My name is Cecily Cardew.</p>
+            <p>Gwendolen. Cecily Cardew? [Moving to her and shaking hands.] What a very sweet name! Something tells me that we are going to be great friends. I like you already more than I can say. My first impressions of people are never wrong.</p>
+            <p>Cecily. How nice of you to like me so much after we have known each other such a comparatively short time. Pray sit down.</p>
+            <p>Gwendolen. [Still standing up.] I may call you Cecily, may I not?</p>
+            <p>Cecily. With pleasure!</p>
+            <p>Gwendolen. And you will always call me Gwendolen, won&#8217;t you?</p>
+            <p>Cecily. If you wish.</p>
+            <p>Gwendolen. Then that is all quite settled, is it not?</p>
+            <p>Cecily. I hope so. [A pause. They both sit down together.]</p>
+            <p>Gwendolen. Perhaps this might be a favourable opportunity for my mentioning who I am. My father is Lord Bracknell. You have never heard of papa, I suppose?</p>
+            <p>Cecily. I don&#8217;t think so.</p>
+            <p>Gwendolen. Outside the family circle, papa, I am glad to say, is entirely unknown. I think that is quite as it should be. The home seems to me to be the proper sphere for the man. And certainly once a man begins to neglect his domestic duties he becomes painfully effeminate, does he not? And I don&#8217;t like that. It makes men so very attractive. Cecily, mamma, whose views on education are remarkably strict, has brought me up to be extremely short&#8211;sighted; it is part of her system; so do you mind my looking at you through my glasses?</p>
+            <p>Cecily. Oh! not at all, Gwendolen. I am very fond of being looked at.</p>
+            <p>Gwendolen. [After examining Cecily carefully through a lorgnette.] You are here on a short visit, I suppose.</p>
+            <p>Cecily. Oh no! I live here.</p>
+            <p>Gwendolen. [Severely.] Really? Your mother, no doubt, or some female relative of advanced years, resides here also?</p>
+            <p>Cecily. Oh no! I have no mother, nor, in fact, any relations.</p>
+            <p>Gwendolen. Indeed?</p>
+            <p>Cecily. My dear guardian, with the assistance of Miss Prism, has the arduous task of looking after me.</p>
+            <p>Gwendolen. Your guardian?</p>
+            <p>Cecily. Yes, I am Mr.&nbsp;Worthing&#8217;s ward.</p>
+            <p>Gwendolen. Oh! It is strange he never mentioned to me that he had a ward. How secretive of him! He grows more interesting hourly. I am not sure, however, that the news inspires me with feelings of unmixed delight. [Rising and going to her.] I am very fond of you, Cecily; I have liked you ever since I met you! But I am bound to state that now that I know that you are Mr.&nbsp;Worthing&#8217;s ward, I cannot help expressing a wish you were&#8212;well, just a little older than you seem to be&#8212;and not quite so very alluring in appearance. In fact, if I may speak candidly&#8212;</p>
+            <p>Cecily. Pray do! I think that whenever one has anything unpleasant to say, one should always be quite candid.</p>
+            <p>Gwendolen. Well, to speak with perfect candour, Cecily, I wish that you were fully forty&#8211;two, and more than usually plain for your age. Ernest has a strong upright nature. He is the very soul of truth and honour. Disloyalty would be as impossible to him as deception. But even men of the noblest possible moral character are extremely susceptible to the influence of the physical charms of others. Modern, no less than Ancient History, supplies us with many most painful examples of what I refer to. If it were not so, indeed, History would be quite unreadable.</p>
+            <p>Cecily. I beg your pardon, Gwendolen, did you say Ernest?</p>
+            <p>Gwendolen. Yes.</p>
+            <p>Cecily. Oh, but it is not Mr.&nbsp;Ernest Worthing who is my guardian. It is his brother&#8212;his elder brother.</p>
+            <p>Gwendolen. [Sitting down again.] Ernest never mentioned to me that he had a brother.</p>
+            <p>Cecily. I am sorry to say they have not been on good terms for a long time.</p>
+            <p>Gwendolen. Ah! that accounts for it. And now that I think of it I have never heard any man mention his brother. The subject seems distasteful to most men. Cecily, you have lifted a load from my mind. I was growing almost anxious. It would have been terrible if any cloud had come across a friendship like ours, would it not? Of course you are quite, quite sure that it is not Mr.&nbsp;Ernest Worthing who is your guardian?</p>
+            <p>Cecily. Quite sure. [A pause.] In fact, I am going to be his.</p>
+            <p>Gwendolen. [Inquiringly.] I beg your pardon?</p>
+            <p>Cecily. [Rather shy and confidingly.] Dearest Gwendolen, there is no reason why I should make a secret of it to you. Our little county newspaper is sure to chronicle the fact next week. Mr.&nbsp;Ernest Worthing and I are engaged to be married.</p>
+            <p>Gwendolen. [Quite politely, rising.] My darling Cecily, I think there must be some slight error. Mr.&nbsp;Ernest Worthing is engaged to me. The announcement will appear in the <em>Morning Post</em> on Saturday at the latest.</p>
+            <p>Cecily. [Very politely, rising.] I am afraid you must be under some misconception. Ernest proposed to me exactly ten minutes ago. [Shows diary.]</p>
+            <p>Gwendolen. [Examines diary through her lorgnettte carefully.] It is certainly very curious, for he asked me to be his wife yesterday afternoon at 5.30. If you would care to verify the incident, pray do so. [Produces diary of her own.] I never travel without my diary. One should always have something sensational to read in the train. I am so sorry, dear Cecily, if it is any disappointment to you, but I am afraid I have the prior claim.</p>
+            <p>Cecily. It would distress me more than I can tell you, dear Gwendolen, if it caused you any mental or physical anguish, but I feel bound to point out that since Ernest proposed to you he clearly has changed his mind.</p>
+            <p>Gwendolen. [Meditatively.] If the poor fellow has been entrapped into any foolish promise I shall consider it my duty to rescue him at once, and with a firm hand.</p>
+            <p>Cecily. [Thoughtfully and sadly.] Whatever unfortunate entanglement my dear boy may have got into, I will never reproach him with it after we are married.</p>
+            <p>Gwendolen. Do you allude to me, Miss Cardew, as an entanglement? You are presumptuous. On an occasion of this kind it becomes more than a moral duty to speak one&#8217;s mind. It becomes a pleasure.</p>
+            <p>Cecily. Do you suggest, Miss Fairfax, that I entrapped Ernest into an engagement? How dare you? This is no time for wearing the shallow mask of manners. When I see a spade I call it a spade.</p>
+            <p>Gwendolen. [Satirically.] I am glad to say that I have never seen a spade. It is obvious that our social spheres have been widely different.</p>
+            <p>[Enter Merriman, followed by the footman. He carries a salver, table cloth, and plate stand. Cecily is about to retort. The presence of the servants exercises a restraining influence, under which both girls chafe.]</p>
+            <p>Merriman. Shall I lay tea here as usual, Miss?</p>
+            <p>Cecily. [Sternly, in a calm voice.] Yes, as usual. [Merriman begins to clear table and lay cloth. A long pause. Cecily and Gwendolen glare at each other.]</p>
+            <p>Gwendolen. Are there many interesting walks in the vicinity, Miss Cardew?</p>
+            <p>Cecily. Oh! yes! a great many. From the top of one of the hills quite close one can see five counties.</p>
+            <p>Gwendolen. Five counties! I don&#8217;t think I should like that; I hate crowds.</p>
+            <p>Cecily. [Sweetly.] I suppose that is why you live in town? [Gwendolen bites her lip, and beats her foot nervously with her parasol.]</p>
+            <p>Gwendolen. [Looking round.] Quite a well&#8211;kept garden this is, Miss Cardew.</p>
+            <p>Cecily. So glad you like it, Miss Fairfax.</p>
+            <p>Gwendolen. I had no idea there were any flowers in the country.</p>
+            <p>Cecily. Oh, flowers are as common here, Miss Fairfax, as people are in London.</p>
+            <p>Gwendolen. Personally I cannot understand how anybody manages to exist in the country, if anybody who is anybody does. The country always bores me to death.</p>
+            <p>Cecily. Ah! This is what the newspapers call agricultural depression, is it not? I believe the aristocracy are suffering very much from it just at present. It is almost an epidemic amongst them, I have been told. May I offer you some tea, Miss Fairfax?</p>
+            <p>Gwendolen. [With elaborate politeness.] Thank you. [Aside.] Detestable girl! But I require tea!</p>
+            <p>Cecily. [Sweetly.] Sugar?</p>
+            <p>Gwendolen. [Superciliously.] No, thank you. Sugar is not fashionable any more. [Cecily looks angrily at her, takes up the tongs and puts four lumps of sugar into the cup.]</p>
+            <p>Cecily. [Severely.] Cake or bread and butter?</p>
+            <p>Gwendolen. [In a bored manner.] Bread and butter, please. Cake is rarely seen at the best houses nowadays.</p>
+            <p>Cecily. [Cuts a very large slice of cake, and puts it on the tray.] Hand that to Miss Fairfax.</p>
+            <p>[Merriman does so, and goes out with footman. Gwendolen drinks the tea and makes a grimace. Puts down cup at once, reaches out her hand to the bread and butter, looks at it, and finds it is cake. Rises in indignation.]</p>
+            <p>Gwendolen. You have filled my tea with lumps of sugar, and though I asked most distinctly for bread and butter, you have given me cake. I am known for the gentleness of my disposition, and the extraordinary sweetness of my nature, but I warn you, Miss Cardew, you may go too far.</p>
+            <p>Cecily. [Rising.] To save my poor, innocent, trusting boy from the machinations of any other girl there are no lengths to which I would not go.</p>
+            <p>Gwendolen. From the moment I saw you I distrusted you. I felt that you were false and deceitful. I am never deceived in such matters. My first impressions of people are invariably right.</p>
+            <p>Cecily. It seems to me, Miss Fairfax, that I am trespassing on your valuable time. No doubt you have many other calls of a similar character to make in the neighbourhood.</p>
+            <p>[Enter Jack.]</p>
+            <p>Gwendolen. [Catching sight of him.] Ernest! My own Ernest!</p>
+            <p>Jack. Gwendolen! Darling! [Offers to kiss her.]</p>
+            <p>Gwendolen. [Draws back.] A moment! May I ask if you are engaged to be married to this young lady? [Points to Cecily.]</p>
+            <p>Jack. [Laughing.] To dear little Cecily! Of course not! What could have put such an idea into your pretty little head?</p>
+            <p>Gwendolen. Thank you. You may! [Offers her cheek.]</p>
+            <p>Cecily. [Very sweetly.] I knew there must be some misunderstanding, Miss Fairfax. The gentleman whose arm is at present round your waist is my guardian, Mr.&nbsp;John Worthing.</p>
+            <p>Gwendolen. I beg your pardon?</p>
+            <p>Cecily. This is Uncle Jack.</p>
+            <p>Gwendolen. [Receding.] Jack! Oh!</p>
+            <p>[Enter Algernon.]</p>
+            <p>Cecily. Here is Ernest.</p>
+            <p>Algernon. [Goes straight over to Cecily without noticing any one else.] My own love! [Offers to kiss her.]</p>
+            <p>Cecily. [Drawing back.] A moment, Ernest! May I ask you&#8212;are you engaged to be married to this young lady?</p>
+            <p>Algernon. [Looking round.] To what young lady? Good heavens! Gwendolen!</p>
+            <p>Cecily. Yes! to good heavens, Gwendolen, I mean to Gwendolen.</p>
+            <p>Algernon. [Laughing.] Of course not! What could have put such an idea into your pretty little head?</p>
+            <p>Cecily. Thank you. [Presenting her cheek to be kissed.] You may. [Algernon kisses her.]</p>
+            <p>Gwendolen. I felt there was some slight error, Miss Cardew. The gentleman who is now embracing you is my cousin, Mr.&nbsp;Algernon Moncrieff.</p>
+            <p>Cecily. [Breaking away from Algernon.] Algernon Moncrieff! Oh! [The two girls move towards each other and put their arms round each other&#8217;s waists as if for protection.]</p>
+            <p>Cecily. Are you called Algernon?</p>
+            <p>Algernon. I cannot deny it.</p>
+            <p>Cecily. Oh!</p>
+            <p>Gwendolen. Is your name really John?</p>
+            <p>Jack. [Standing rather proudly.] I could deny it if I liked. I could deny anything if I liked. But my name certainly is John. It has been John for years.</p>
+            <p>Cecily. [To Gwendolen.] A gross deception has been practised on both of us.</p>
+            <p>Gwendolen. My poor wounded Cecily!</p>
+            <p>Cecily. My sweet wronged Gwendolen!</p>
+            <p>Gwendolen. [Slowly and seriously.] You will call me sister, will you not? [They embrace. Jack and Algernon groan and walk up and down.]</p>
+            <p>Cecily. [Rather brightly.] There is just one question I would like to be allowed to ask my guardian.</p>
+            <p>Gwendolen. An admirable idea! Mr.&nbsp;Worthing, there is just one question I would like to be permitted to put to you. Where is your brother Ernest? We are both engaged to be married to your brother Ernest, so it is a matter of some importance to us to know where your brother Ernest is at present.</p>
+            <p>Jack. [Slowly and hesitatingly.] Gwendolen&#8212;Cecily&#8212;it is very painful for me to be forced to speak the truth. It is the first time in my life that I have ever been reduced to such a painful position, and I am really quite inexperienced in doing anything of the kind. However, I will tell you quite frankly that I have no brother Ernest. I have no brother at all. I never had a brother in my life, and I certainly have not the smallest intention of ever having one in the future.</p>
+            <p>Cecily. [Surprised.] No brother at all?</p>
+            <p>Jack. [Cheerily.] None!</p>
+            <p>Gwendolen. [Severely.] Had you never a brother of any kind?</p>
+            <p>Jack. [Pleasantly.] Never. Not even of an kind.</p>
+            <p>Gwendolen. I am afraid it is quite clear, Cecily, that neither of us is engaged to be married to any one.</p>
+            <p>Cecily. It is not a very pleasant position for a young girl suddenly to find herself in. Is it?</p>
+            <p>Gwendolen. Let us go into the house. They will hardly venture to come after us there.</p>
+            <p>Cecily. No, men are so cowardly, aren&#8217;t they?</p>
+            <p>[They retire into the house with scornful looks.]</p>
+            <p>Jack. This ghastly state of things is what you call Bunburying, I suppose?</p>
+            <p>Algernon. Yes, and a perfectly wonderful Bunbury it is. The most wonderful Bunbury I have ever had in my life.</p>
+            <p>Jack. Well, you&#8217;ve no right whatsoever to Bunbury here.</p>
+            <p>Algernon. That is absurd. One has a right to Bunbury anywhere one chooses. Every serious Bunburyist knows that.</p>
+            <p>Jack. Serious Bunburyist! Good heavens!</p>
+            <p>Algernon. Well, one must be serious about something, if one wants to have any amusement in life. I happen to be serious about Bunburying. What on earth you are serious about I haven&#8217;t got the remotest idea. About everything, I should fancy. You have such an absolutely trivial nature.</p>
+            <p>Jack. Well, the only small satisfaction I have in the whole of this wretched business is that your friend Bunbury is quite exploded. You won&#8217;t be able to run down to the country quite so often as you used to do, dear Algy. And a very good thing too.</p>
+            <p>Algernon. Your brother is a little off colour, isn&#8217;t he, dear Jack? You won&#8217;t be able to disappear to London quite so frequently as your wicked custom was. And not a bad thing either.</p>
+            <p>Jack. As for your conduct towards Miss Cardew, I must say that your taking in a sweet, simple, innocent girl like that is quite inexcusable. To say nothing of the fact that she is my ward.</p>
+            <p>Algernon. I can see no possible defence at all for your deceiving a brilliant, clever, thoroughly experienced young lady like Miss Fairfax. To say nothing of the fact that she is my cousin.</p>
+            <p>Jack. I wanted to be engaged to Gwendolen, that is all. I love her.</p>
+            <p>Algernon. Well, I simply wanted to be engaged to Cecily. I adore her.</p>
+            <p>Jack. There is certainly no chance of your marrying Miss Cardew.</p>
+            <p>Algernon. I don&#8217;t think there is much likelihood, Jack, of you and Miss Fairfax being united.</p>
+            <p>Jack. Well, that is no business of yours.</p>
+            <p>Algernon. If it was my business, I wouldn&#8217;t talk about it. [Begins to eat muffins.] It is very vulgar to talk about one&#8217;s business. Only people like stock&#8211;brokers do that, and then merely at dinner parties.</p>
+            <p>Jack. How can you sit there, calmly eating muffins when we are in this horrible trouble, I can&#8217;t make out. You seem to me to be perfectly heartless.</p>
+            <p>Algernon. Well, I can&#8217;t eat muffins in an agitated manner. The butter would probably get on my cuffs. One should always eat muffins quite calmly. It is the only way to eat them.</p>
+            <p>Jack. I say it&#8217;s perfectly heartless your eating muffins at all, under the circumstances.</p>
+            <p>Algernon. When I am in trouble, eating is the only thing that consoles me. Indeed, when I am in really great trouble, as any one who knows me intimately will tell you, I refuse everything except food and drink. At the present moment I am eating muffins because I am unhappy. Besides, I am particularly fond of muffins. [Rising.]</p>
+            <p>Jack. [Rising.] Well, that is no reason why you should eat them all in that greedy way. [Takes muffins from Algernon.]</p>
+            <p>Algernon. [Offering tea&#8211;cake.] I wish you would have tea&#8211;cake instead. I don&#8217;t like tea&#8211;cake.</p>
+            <p>Jack. Good heavens! I suppose a man may eat his own muffins in his own garden.</p>
+            <p>Algernon. But you have just said it was perfectly heartless to eat muffins.</p>
+            <p>Jack. I said it was perfectly heartless of you, under the circumstances. That is a very different thing.</p>
+            <p>Algernon. That may be. But the muffins are the same. [He seizes the muffin&#8211;dish from Jack.]</p>
+            <p>Jack. Algy, I wish to goodness you would go.</p>
+            <p>Algernon. You can&#8217;t possibly ask me to go without having some dinner. It&#8217;s absurd. I never go without my dinner. No one ever does, except vegetarians and people like that. Besides I have just made arrangements with Dr.&nbsp;Chasuble to be christened at a quarter to six under the name of Ernest.</p>
+            <p>Jack. My dear fellow, the sooner you give up that nonsense the better. I made arrangements this morning with Dr.&nbsp;Chasuble to be christened myself at 5.30, and I naturally will take the name of Ernest. Gwendolen would wish it. We can&#8217;t both be christened Ernest. It&#8217;s absurd. Besides, I have a perfect right to be christened if I like. There is no evidence at all that I have ever been christened by anybody. I should think it extremely probable I never was, and so does Dr.&nbsp;Chasuble. It is entirely different in your case. You have been christened already.</p>
+            <p>Algernon. Yes, but I have not been christened for years.</p>
+            <p>Jack. Yes, but you have been christened. That is the important thing.</p>
+            <p>Algernon. Quite so. So I know my constitution can stand it. If you are not quite sure about your ever having been christened, I must say I think it rather dangerous your venturing on it now. It might make you very unwell. You can hardly have forgotten that some one very closely connected with you was very nearly carried off this week in Paris by a severe chill.</p>
+            <p>Jack. Yes, but you said yourself that a severe chill was not hereditary.</p>
+            <p>Algernon. It usen&#8217;t to be, I know&#8212;but I daresay it is now. Science is always making wonderful improvements in things.</p>
+            <p>Jack. [Picking up the muffin&#8211;dish.] Oh, that is nonsense; you are always talking nonsense.</p>
+            <p>Algernon. Jack, you are at the muffins again! I wish you wouldn&#8217;t. There are only two left. [Takes them.] I told you I was particularly fond of muffins.</p>
+            <p>Jack. But I hate tea&#8211;cake.</p>
+            <p>Algernon. Why on earth then do you allow tea&#8211;cake to be served up for your guests? What ideas you have of hospitality!</p>
+            <p>Jack. Algernon! I have already told you to go. I don&#8217;t want you here. Why don&#8217;t you go!</p>
+            <p>Algernon. I haven&#8217;t quite finished my tea yet! and there is still one muffin left. [Jack groans, and sinks into a chair. Algernon still continues eating.]</p>
+            <p>ACT DROP</p>
+         </div>
+      </div>
+   </body>
+</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <head>
+      <title>THIRD ACT - SCENE | The Importance of Being Earnest</title>
+      <link rel="stylesheet" href="css/book.css" type="text/css"/>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+      <meta name="EPB-UUID" content="38F60DBD-6C07-1014-AB8C-CCF8A6C08ECA"/>
+   </head>
+   <body>
+      <div class="body">
+         <div class="chapter">
+            <h3 class="chapter-title">THIRD ACT</h3>
+            <h4 class="chapter-subtitle">SCENE</h4>
+            <p>Morning&#8211;room at the Manor House.</p>
+            <p>[Gwendolen and Cecily are at the window, looking out into the garden.]</p>
+            <p>Gwendolen. The fact that they did not follow us at once into the house, as any one else would have done, seems to me to show that they have some sense of shame left.</p>
+            <p>Cecily. They have been eating muffins. That looks like repentance.</p>
+            <p>Gwendolen. [After a pause.] They don&#8217;t seem to notice us at all. Couldn&#8217;t you cough?</p>
+            <p>Cecily. But I haven&#8217;t got a cough.</p>
+            <p>Gwendolen. They&#8217;re looking at us. What effrontery!</p>
+            <p>Cecily. They&#8217;re approaching. That&#8217;s very forward of them.</p>
+            <p>Gwendolen. Let us preserve a dignified silence.</p>
+            <p>Cecily. Certainly. It&#8217;s the only thing to do now. [Enter Jack followed by Algernon. They whistle some dreadful popular air from a British Opera.]</p>
+            <p>Gwendolen. This dignified silence seems to produce an unpleasant effect.</p>
+            <p>Cecily. A most distasteful one.</p>
+            <p>Gwendolen. But we will not be the first to speak.</p>
+            <p>Cecily. Certainly not.</p>
+            <p>Gwendolen. Mr.&nbsp;Worthing, I have something very particular to ask you. Much depends on your reply.</p>
+            <p>Cecily. Gwendolen, your common sense is invaluable. Mr.&nbsp;Moncrieff, kindly answer me the following question. Why did you pretend to be my guardian&#8217;s brother?</p>
+            <p>Algernon. In order that I might have an opportunity of meeting you.</p>
+            <p>Cecily. [To Gwendolen.] That certainly seems a satisfactory explanation, does it not?</p>
+            <p>Gwendolen. Yes, dear, if you can believe him.</p>
+            <p>Cecily. I don&#8217;t. But that does not affect the wonderful beauty of his answer.</p>
+            <p>Gwendolen. True. In matters of grave importance, style, not sincerity is the vital thing. Mr.&nbsp;Worthing, what explanation can you offer to me for pretending to have a brother? Was it in order that you might have an opportunity of coming up to town to see me as often as possible?</p>
+            <p>Jack. Can you doubt it, Miss Fairfax?</p>
+            <p>Gwendolen. I have the gravest doubts upon the subject. But I intend to crush them. This is not the moment for German scepticism. [Moving to Cecily.] Their explanations appear to be quite satisfactory, especially Mr.&nbsp;Worthing&#8217;s. That seems to me to have the stamp of truth upon it.</p>
+            <p>Cecily. I am more than content with what Mr.&nbsp;Moncrieff said. His voice alone inspires one with absolute credulity.</p>
+            <p>Gwendolen. Then you think we should forgive them?</p>
+            <p>Cecily. Yes. I mean no.</p>
+            <p>Gwendolen. True! I had forgotten. There are principles at stake that one cannot surrender. Which of us should tell them? The task is not a pleasant one.</p>
+            <p>Cecily. Could we not both speak at the same time?</p>
+            <p>Gwendolen. An excellent idea! I nearly always speak at the same time as other people. Will you take the time from me?</p>
+            <p>Cecily. Certainly. [Gwendolen beats time with uplifted finger.]</p>
+            <p>Gwendolen and Cecily [Speaking together.] Your Christian names are still an insuperable barrier. That is all!</p>
+            <p>Jack and Algernon [Speaking together.] Our Christian names! Is that all? But we are going to be christened this afternoon.</p>
+            <p>Gwendolen. [To Jack.] For my sake you are prepared to do this terrible thing?</p>
+            <p>Jack. I am.</p>
+            <p>Cecily. [To Algernon.] To please me you are ready to face this fearful ordeal?</p>
+            <p>Algernon. I am!</p>
+            <p>Gwendolen. How absurd to talk of the equality of the sexes! Where questions of self&#8211;sacrifice are concerned, men are infinitely beyond us.</p>
+            <p>Jack. We are. [Clasps hands with Algernon.]</p>
+            <p>Cecily. They have moments of physical courage of which we women know absolutely nothing.</p>
+            <p>Gwendolen. [To Jack.] Darling!</p>
+            <p>Algernon. [To Cecily.] Darling! [They fall into each other&#8217;s arms.]</p>
+            <p>[Enter Merriman. When he enters he coughs loudly, seeing the situation.]</p>
+            <p>Merriman. Ahem! Ahem! Lady Bracknell!</p>
+            <p>Jack. Good heavens!</p>
+            <p>[Enter Lady Bracknell. The couples separate in alarm. Exit Merriman.]</p>
+            <p>Lady Bracknell. Gwendolen! What does this mean?</p>
+            <p>Gwendolen. Merely that I am engaged to be married to Mr.&nbsp;Worthing, mamma.</p>
+            <p>Lady Bracknell. Come here. Sit down. Sit down immediately. Hesitation of any kind is a sign of mental decay in the young, of physical weakness in the old. [Turns to Jack.] Apprised, sir, of my daughter&#8217;s sudden flight by her trusty maid, whose confidence I purchased by means of a small coin, I followed her at once by a luggage train. Her unhappy father is, I am glad to say, under the impression that she is attending a more than usually lengthy lecture by the University Extension Scheme on the Influence of a permanent income on Thought. I do not propose to undeceive him. Indeed I have never undeceived him on any question. I would consider it wrong. But of course, you will clearly understand that all communication between yourself and my daughter must cease immediately from this moment. On this point, as indeed on all points, I am firm.</p>
+            <p>Jack. I am engaged to be married to Gwendolen Lady Bracknell!</p>
+            <p>Lady Bracknell. You are nothing of the kind, sir. And now, as regards Algernon!&#8230;Algernon!</p>
+            <p>Algernon. Yes, Aunt Augusta.</p>
+            <p>Lady Bracknell. May I ask if it is in this house that your invalid friend Mr.&nbsp;Bunbury resides?</p>
+            <p>Algernon. [Stammering.] Oh! No! Bunbury doesn&#8217;t live here. Bunbury is somewhere else at present. In fact, Bunbury is dead.</p>
+            <p>Lady Bracknell. Dead! When did Mr.&nbsp;Bunbury die? His death must have been extremely sudden.</p>
+            <p>Algernon. [Airily.] Oh! I killed Bunbury this afternoon. I mean poor Bunbury died this afternoon.</p>
+            <p>Lady Bracknell. What did he die of?</p>
+            <p>Algernon. Bunbury? Oh, he was quite exploded.</p>
+            <p>Lady Bracknell. Exploded! Was he the victim of a revolutionary outrage? I was not aware that Mr.&nbsp;Bunbury was interested in social legislation. If so, he is well punished for his morbidity.</p>
+            <p>Algernon. My dear Aunt Augusta, I mean he was found out! The doctors found out that Bunbury could not live, that is what I mean&#8212;so Bunbury died.</p>
+            <p>Lady Bracknell. He seems to have had great confidence in the opinion of his physicians. I am glad, however, that he made up his mind at the last to some definite course of action, and acted under proper medical advice. And now that we have finally got rid of this Mr.&nbsp;Bunbury, may I ask, Mr.&nbsp;Worthing, who is that young person whose hand my nephew Algernon is now holding in what seems to me a peculiarly unnecessary manner?</p>
+            <p>Jack. That lady is Miss Cecily Cardew, my ward. [Lady Bracknell bows coldly to Cecily.]</p>
+            <p>Algernon. I am engaged to be married to Cecily, Aunt Augusta.</p>
+            <p>Lady Bracknell. I beg your pardon?</p>
+            <p>Cecily. Mr.&nbsp;Moncrieff and I are engaged to be married, Lady Bracknell.</p>
+            <p>Lady Bracknell. [With a shiver, crossing to the sofa and sitting down.] I do not know whether there is anything peculiarly exciting in the air of this particular part of Hertfordshire, but the number of engagements that go on seems to me considerably above the proper average that statistics have laid down for our guidance. I think some preliminary inquiry on my part would not be out of place. Mr.&nbsp;Worthing, is Miss Cardew at all connected with any of the larger railway stations in London? I merely desire information. Until yesterday I had no idea that there were any families or persons whose origin was a Terminus. [Jack looks perfectly furious, but restrains himself.]</p>
+            <p>Jack. [In a clear, cold voice.] Miss Cardew is the grand&#8211;daughter of the late Mr.&nbsp;Thomas Cardew of 149 Belgrave Square, S.W.; Gervase Park, Dorking, Surrey; and the Sporran, Fifeshire, N.B.</p>
+            <p>Lady Bracknell. That sounds not unsatisfactory. Three addresses always inspire confidence, even in tradesmen. But what proof have I of their authenticity?</p>
+            <p>Jack. I have carefully preserved the Court Guides of the period. They are open to your inspection, Lady Bracknell.</p>
+            <p>Lady Bracknell. [Grimly.] I have known strange errors in that publication.</p>
+            <p>Jack. Miss Cardew&#8217;s family solicitors are Messrs. Markby, Markby, and Markby.</p>
+            <p>Lady Bracknell. Markby, Markby, and Markby? A firm of the very highest position in their profession. Indeed I am told that one of the Mr.&nbsp;Markby&#8217;s is occasionally to be seen at dinner parties. So far I am satisfied.</p>
+            <p>Jack. [Very irritably.] How extremely kind of you, Lady Bracknell! I have also in my possession, you will be pleased to hear, certificates of Miss Cardew&#8217;s birth, baptism, whooping cough, registration, vaccination, confirmation, and the measles; both the German and the English variety.</p>
+            <p>Lady Bracknell. Ah! A life crowded with incident, I see; though perhaps somewhat too exciting for a young girl. I am not myself in favour of premature experiences. [Rises, looks at her watch.] Gwendolen! the time approaches for our departure. We have not a moment to lose. As a matter of form, Mr.&nbsp;Worthing, I had better ask you if Miss Cardew has any little fortune?</p>
+            <p>Jack. Oh! about a hundred and thirty thousand pounds in the Funds. That is all. Goodbye, Lady Bracknell. So pleased to have seen you.</p>
+            <p>Lady Bracknell. [Sitting down again.] A moment, Mr.&nbsp;Worthing. A hundred and thirty thousand pounds! And in the Funds! Miss Cardew seems to me a most attractive young lady, now that I look at her. Few girls of the present day have any really solid qualities, any of the qualities that last, and improve with time. We live, I regret to say, in an age of surfaces. [To Cecily.] Come over here, dear. [Cecily goes across.] Pretty child! your dress is sadly simple, and your hair seems almost as Nature might have left it. But we can soon alter all that. A thoroughly experienced French maid produces a really marvellous result in a very brief space of time. I remember recommending one to young Lady Lancing, and after three months her own husband did not know her.</p>
+            <p>Jack. And after six months nobody knew her.</p>
+            <p>Lady Bracknell. [Glares at Jack for a few moments. Then bends, with a practised smile, to Cecily.] Kindly turn round, sweet child. [Cecily turns completely round.] No, the side view is what I want. [Cecily presents her profile.] Yes, quite as I expected. There are distinct social possibilities in your profile. The two weak points in our age are its want of principle and its want of profile. The chin a little higher, dear. Style largely depends on the way the chin is worn. They are worn very high, just at present. Algernon!</p>
+            <p>Algernon. Yes, Aunt Augusta!</p>
+            <p>Lady Bracknell. There are distinct social possibilities in Miss Cardew&#8217;s profile.</p>
+            <p>Algernon. Cecily is the sweetest, dearest, prettiest girl in the whole world. And I don&#8217;t care twopence about social possibilities.</p>
+            <p>Lady Bracknell. Never speak disrespectfully of Society, Algernon. Only people who can&#8217;t get into it do that. [To Cecily.] Dear child, of course you know that Algernon has nothing but his debts to depend upon. But I do not approve of mercenary marriages. When I married Lord Bracknell I had no fortune of any kind. But I never dreamed for a moment of allowing that to stand in my way. Well, I suppose I must give my consent.</p>
+            <p>Algernon. Thank you, Aunt Augusta.</p>
+            <p>Lady Bracknell. Cecily, you may kiss me!</p>
+            <p>Cecily. [Kisses her.] Thank you, Lady Bracknell.</p>
+            <p>Lady Bracknell. You may also address me as Aunt Augusta for the future.</p>
+            <p>Cecily. Thank you, Aunt Augusta.</p>
+            <p>Lady Bracknell. The marriage, I think, had better take place quite soon.</p>
+            <p>Algernon. Thank you, Aunt Augusta.</p>
+            <p>Cecily. Thank you, Aunt Augusta.</p>
+            <p>Lady Bracknell. To speak frankly, I am not in favour of long engagements. They give people the opportunity of finding out each other&#8217;s character before marriage, which I think is never advisable.</p>
+            <p>Jack. I beg your pardon for interrupting you, Lady Bracknell, but this engagement is quite out of the question. I am Miss Cardew&#8217;s guardian, and she cannot marry without my consent until she comes of age. That consent I absolutely decline to give.</p>
+            <p>Lady Bracknell. Upon what grounds may I ask? Algernon is an extremely, I may almost say an ostentatiously, eligible young man. He has nothing, but he looks everything. What more can one desire?</p>
+            <p>Jack. It pains me very much to have to speak frankly to you, Lady Bracknell, about your nephew, but the fact is that I do not approve at all of his moral character. I suspect him of being untruthful. [Algernon and Cecily look at him in indignant amazement.]</p>
+            <p>Lady Bracknell. Untruthful! My nephew Algernon? Impossible! He is an Oxonian.</p>
+            <p>Jack. I fear there can be no possible doubt about the matter. This afternoon during my temporary absence in London on an important question of romance, he obtained admission to my house by means of the false pretence of being my brother. Under an assumed name he drank, I&#8217;ve just been informed by my butler, an entire pint bottle of my Perrier&#8211;Jouet, Brut, '89; wine I was specially reserving for myself. Continuing his disgraceful deception, he succeeded in the course of the afternoon in alienating the affections of my only ward. He subsequently stayed to tea, and devoured every single muffin. And what makes his conduct all the more heartless is, that he was perfectly well aware from the first that I have no brother, that I never had a brother, and that I don&#8217;t intend to have a brother, not even of any kind. I distinctly told him so myself yesterday afternoon.</p>
+            <p>Lady Bracknell. Ahem! Mr.&nbsp;Worthing, after careful consideration I have decided entirely to overlook my nephew&#8217;s conduct to you.</p>
+            <p>Jack. That is very generous of you, Lady Bracknell. My own decision, however, is unalterable. I decline to give my consent.</p>
+            <p>Lady Bracknell. [To Cecily.] Come here, sweet child. [Cecily goes over.] How old are you, dear?</p>
+            <p>Cecily. Well, I am really only eighteen, but I always admit to twenty when I go to evening parties.</p>
+            <p>Lady Bracknell. You are perfectly right in making some slight alteration. Indeed, no woman should ever be quite accurate about her age. It looks so calculating&#8230;[In a meditative manner.] Eighteen, but admitting to twenty at evening parties. Well, it will not be very long before you are of age and free from the restraints of tutelage. So I don&#8217;t think your guardian&#8217;s consent is, after all, a matter of any importance.</p>
+            <p>Jack. Pray excuse me, Lady Bracknell, for interrupting you again, but it is only fair to tell you that according to the terms of her grandfather&#8217;s will Miss Cardew does not come legally of age till she is thirty&#8211;five.</p>
+            <p>Lady Bracknell. That does not seem to me to be a grave objection. Thirty&#8211;five is a very attractive age. London society is full of women of the very highest birth who have, of their own free choice, remained thirty&#8211;five for years. Lady Dumbleton is an instance in point. To my own knowledge she has been thirty&#8211;five ever since she arrived at the age of forty, which was many years ago now. I see no reason why our dear Cecily should not be even still more attractive at the age you mention than she is at present. There will be a large accumulation of property.</p>
+            <p>Cecily. Algy, could you wait for me till I was thirty&#8211;five?</p>
+            <p>Algernon. Of course I could, Cecily. You know I could.</p>
+            <p>Cecily. Yes, I felt it instinctively, but I couldn&#8217;t wait all that time. I hate waiting even five minutes for anybody. It always makes me rather cross. I am not punctual myself, I know, but I do like punctuality in others, and waiting, even to be married, is quite out of the question.</p>
+            <p>Algernon. Then what is to be done, Cecily?</p>
+            <p>Cecily. I don&#8217;t know, Mr.&nbsp;Moncrieff.</p>
+            <p>Lady Bracknell. My dear Mr.&nbsp;Worthing, as Miss Cardew states positively that she cannot wait till she is thirty&#8211;five&#8212;a remark which I am bound to say seems to me to show a somewhat impatient nature&#8212;I would beg of you to reconsider your decision.</p>
+            <p>Jack. But my dear Lady Bracknell, the matter is entirely in your own hands. The moment you consent to my marriage with Gwendolen, I will most gladly allow your nephew to form an alliance with my ward.</p>
+            <p>Lady Bracknell. [Rising and drawing herself up.] You must be quite aware that what you propose is out of the question.</p>
+            <p>Jack. Then a passionate celibacy is all that any of us can look forward to.</p>
+            <p>Lady Bracknell. That is not the destiny I propose for Gwendolen. Algernon, of course, can choose for himself. [Pulls out her watch.] Come, dear, [Gwendolen rises] we have already missed five, if not six, trains. To miss any more might expose us to comment on the platform.</p>
+            <p>[Enter Dr.&nbsp;Chasuble.]</p>
+            <p>Chasuble. Everything is quite ready for the christenings.</p>
+            <p>Lady Bracknell. The christenings, sir! Is not that somewhat premature?</p>
+            <p>Chasuble. [Looking rather puzzled, and pointing to Jack and Algernon.] Both these gentlemen have expressed a desire for immediate baptism.</p>
+            <p>Lady Bracknell. At their age? The idea is grotesque and irreligious! Algernon, I forbid you to be baptized. I will not hear of such excesses. Lord Bracknell would be highly displeased if he learned that that was the way in which you wasted your time and money.</p>
+            <p>Chasuble. Am I to understand then that there are to be no christenings at all this afternoon?</p>
+            <p>Jack. I don&#8217;t think that, as things are now, it would be of much practical value to either of us, Dr.&nbsp;Chasuble.</p>
+            <p>Chasuble. I am grieved to hear such sentiments from you, Mr.&nbsp;Worthing. They savour of the heretical views of the Anabaptists, views that I have completely refuted in four of my unpublished sermons. However, as your present mood seems to be one peculiarly secular, I will return to the church at once. Indeed, I have just been informed by the pew&#8211;opener that for the last hour and a half Miss Prism has been waiting for me in the vestry.</p>
+            <p>Lady Bracknell. [Starting.] Miss Prism! Did I hear you mention a Miss Prism?</p>
+            <p>Chasuble. Yes, Lady Bracknell. I am on my way to join her.</p>
+            <p>Lady Bracknell. Pray allow me to detain you for a moment. This matter may prove to be one of vital importance to Lord Bracknell and myself. Is this Miss Prism a female of repellent aspect, remotely connected with education?</p>
+            <p>Chasuble. [Somewhat indignantly.] She is the most cultivated of ladies, and the very picture of respectability.</p>
+            <p>Lady Bracknell. It is obviously the same person. May I ask what position she holds in your household?</p>
+            <p>Chasuble. [Severely.] I am a celibate, madam.</p>
+            <p>Jack. [Interposing.] Miss Prism, Lady Bracknell, has been for the last three years Miss Cardew&#8217;s esteemed governess and valued companion.</p>
+            <p>Lady Bracknell. In spite of what I hear of her, I must see her at once. Let her be sent for.</p>
+            <p>Chasuble. [Looking off.] She approaches; she is nigh.</p>
+            <p>[Enter Miss Prism hurriedly.]</p>
+            <p>Miss Prism. I was told you expected me in the vestry, dear Canon. I have been waiting for you there for an hour and three&#8211;quarters. [Catches sight of Lady Bracknell, who has fixed her with a stony glare. Miss Prism grows pale and quails. She looks anxiously round as if desirous to escape.]</p>
+            <p>Lady Bracknell. [In a severe, judicial voice.] Prism! [Miss Prism bows her head in shame.] Come here, Prism! [Miss Prism approaches in a humble manner.] Prism! Where is that baby? [General consternation. The Canon starts back in horror. Algernon and Jack pretend to be anxious to shield Cecily and Gwendolen from hearing the details of a terrible public scandal.] Twenty&#8211;eight years ago, Prism, you left Lord Bracknell&#8217;s house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex. You never returned. A few weeks later, through the elaborate investigations of the Metropolitan police, the perambulator was discovered at midnight, standing by itself in a remote corner of Bayswater. It contained the manuscript of a three&#8211;volume novel of more than usually revolting sentimentality. [Miss Prism starts in involuntary indignation.] But the baby was not there! [Every one looks at Miss Prism.] Prism! Where is that baby? [A pause.]</p>
+            <p>Miss Prism. Lady Bracknell, I admit with shame that I do not know. I only wish I did. The plain facts of the case are these. On the morning of the day you mention, a day that is for ever branded on my memory, I prepared as usual to take the baby out in its perambulator. I had also with me a somewhat old, but capacious hand&#8211;bag in which I had intended to place the manuscript of a work of fiction that I had written during my few unoccupied hours. In a moment of mental abstraction, for which I never can forgive myself, I deposited the manuscript in the basinette, and placed the baby in the hand&#8211;bag.</p>
+            <p>Jack. [Who has been listening attentively.] But where did you deposit the hand&#8211;bag?</p>
+            <p>Miss Prism. Do not ask me, Mr.&nbsp;Worthing.</p>
+            <p>Jack. Miss Prism, this is a matter of no small importance to me. I insist on knowing where you deposited the hand&#8211;bag that contained that infant.</p>
+            <p>Miss Prism. I left it in the cloak&#8211;room of one of the larger railway stations in London.</p>
+            <p>Jack. What railway station?</p>
+            <p>Miss Prism. [Quite crushed.] Victoria. The Brighton line. [Sinks into a chair.]</p>
+            <p>Jack. I must retire to my room for a moment. Gwendolen, wait here for me.</p>
+            <p>Gwendolen. If you are not too long, I will wait here for you all my life. [Exit Jack in great excitement.]</p>
+            <p>Chasuble. What do you think this means, Lady Bracknell?</p>
+            <p>Lady Bracknell. I dare not even suspect, Dr.&nbsp;Chasuble. I need hardly tell you that in families of high position strange coincidences are not supposed to occur. They are hardly considered the thing.</p>
+            <p>[Noises heard overhead as if some one was throwing trunks about. Every one looks up.]</p>
+            <p>Cecily. Uncle Jack seems strangely agitated.</p>
+            <p>Chasuble. Your guardian has a very emotional nature.</p>
+            <p>Lady Bracknell. This noise is extremely unpleasant. It sounds as if he was having an argument. I dislike arguments of any kind. They are always vulgar, and often convincing.</p>
+            <p>Chasuble. [Looking up.] It has stopped now. [The noise is redoubled.]</p>
+            <p>Lady Bracknell. I wish he would arrive at some conclusion.</p>
+            <p>Gwendolen. This suspense is terrible. I hope it will last. [Enter Jack with a hand&#8211;bag of black leather in his hand.]</p>
+            <p>Jack. [Rushing over to Miss Prism.] Is this the hand&#8211;bag, Miss Prism? Examine it carefully before you speak. The happiness of more than one life depends on your answer.</p>
+            <p>Miss Prism. [Calmly.] It seems to be mine. Yes, here is the injury it received through the upsetting of a Gower Street omnibus in younger and happier days. Here is the stain on the lining caused by the explosion of a temperance beverage, an incident that occurred at Leamington. And here, on the lock, are my initials. I had forgotten that in an extravagant mood I had had them placed there. The bag is undoubtedly mine. I am delighted to have it so unexpectedly restored to me. It has been a great inconvenience being without it all these years.</p>
+            <p>Jack. [In a pathetic voice.] Miss Prism, more is restored to you than this hand&#8211;bag. I was the baby you placed in it.</p>
+            <p>Miss Prism. [Amazed.] You?</p>
+            <p>Jack. [Embracing her.] Yes&#8230;mother!</p>
+            <p>Miss Prism. [Recoiling in indignant astonishment.] Mr.&nbsp;Worthing! I am unmarried!</p>
+            <p>Jack. Unmarried! I do not deny that is a serious blow. But after all, who has the right to cast a stone against one who has suffered? Cannot repentance wipe out an act of folly? Why should there be one law for men, and another for women? Mother, I forgive you. [Tries to embrace her again.]</p>
+            <p>Miss Prism. [Still more indignant.] Mr.&nbsp;Worthing, there is some error. [Pointing to Lady Bracknell.] There is the lady who can tell you who you really are.</p>
+            <p>Jack. [After a pause.] Lady Bracknell, I hate to seem inquisitive, but would you kindly inform me who I am?</p>
+            <p>Lady Bracknell. I am afraid that the news I have to give you will not altogether please you. You are the son of my poor sister, Mrs.&nbsp;Moncrieff, and consequently Algernon&#8217;s elder brother.</p>
+            <p>Jack. Algy&#8217;s elder brother! Then I have a brother after all. I knew I had a brother! I always said I had a brother! Cecily,&#8212;how could you have ever doubted that I had a brother? [Seizes hold of Algernon.] Dr.&nbsp;Chasuble, my unfortunate brother. Miss Prism, my unfortunate brother. Gwendolen, my unfortunate brother. Algy, you young scoundrel, you will have to treat me with more respect in the future. You have never behaved to me like a brother in all your life.</p>
+            <p>Algernon. Well, not till to&#8211;day, old boy, I admit. I did my best, however, though I was out of practice.</p>
+            <p>[Shakes hands.]</p>
+            <p>Gwendolen. [To Jack.] My own! But what own are you? What is your Christian name, now that you have become some one else?</p>
+            <p>Jack. Good heavens!&#8230;I had quite forgotten that point. Your decision on the subject of my name is irrevocable, I suppose?</p>
+            <p>Gwendolen. I never change, except in my affections.</p>
+            <p>Cecily. What a noble nature you have, Gwendolen!</p>
+            <p>Jack. Then the question had better be cleared up at once. Aunt Augusta, a moment. At the time when Miss Prism left me in the hand&#8211;bag, had I been christened already?</p>
+            <p>Lady Bracknell. Every luxury that money could buy, including christening, had been lavished on you by your fond and doting parents.</p>
+            <p>Jack. Then I was christened! That is settled. Now, what name was I given? Let me know the worst.</p>
+            <p>Lady Bracknell. Being the eldest son you were naturally christened after your father.</p>
+            <p>Jack. [Irritably.] Yes, but what was my father&#8217;s Christian name?</p>
+            <p>Lady Bracknell. [Meditatively.] I cannot at the present moment recall what the General&#8217;s Christian name was. But I have no doubt he had one. He was eccentric, I admit. But only in later years. And that was the result of the Indian climate, and marriage, and indigestion, and other things of that kind.</p>
+            <p>Jack. Algy! Can&#8217;t you recollect what our father&#8217;s Christian name was?</p>
+            <p>Algernon. My dear boy, we were never even on speaking terms. He died before I was a year old.</p>
+            <p>Jack. His name would appear in the Army Lists of the period, I suppose, Aunt Augusta?</p>
+            <p>Lady Bracknell. The General was essentially a man of peace, except in his domestic life. But I have no doubt his name would appear in any military directory.</p>
+            <p>Jack. The Army Lists of the last forty years are here. These delightful records should have been my constant study. [Rushes to bookcase and tears the books out.] M.&nbsp;Generals&#8230;Mallam, Maxbohm, Magley, what ghastly names they have&#8212;Markby, Migsby, Mobbs, Moncrieff! Lieutenant 1840, Captain, Lieutenant&#8211;Colonel, Colonel, General 1869, Christian names, Ernest John. [Puts book very quietly down and speaks quite calmly.] I always told you, Gwendolen, my name was Ernest, didn&#8217;t I? Well, it is Ernest after all. I mean it naturally is Ernest.</p>
+            <p>Lady Bracknell. Yes, I remember now that the General was called Ernest, I knew I had some particular reason for disliking the name.</p>
+            <p>Gwendolen. Ernest! My own Ernest! I felt from the first that you could have no other name!</p>
+            <p>Jack. Gwendolen, it is a terrible thing for a man to find out suddenly that all his life he has been speaking nothing but the truth. Can you forgive me?</p>
+            <p>Gwendolen. I can. For I feel that you are sure to change.</p>
+            <p>Jack. My own one!</p>
+            <p>Chasuble. [To Miss Prism.] Laetitia! [Embraces her]</p>
+            <p>Miss Prism. [Enthusiastically.] Frederick! At last!</p>
+            <p>Algernon. Cecily! [Embraces her.] At last!</p>
+            <p>Jack. Gwendolen! [Embraces her.] At last!</p>
+            <p>Lady Bracknell. My nephew, you seem to be displaying signs of triviality.</p>
+            <p>Jack. On the contrary, Aunt Augusta, I&#8217;ve now realised for the first time in my life the vital Importance of Being Earnest.</p>
+            <p>TABLEAU</p>
+         </div>
+      </div>
+   </body>
+</html>
